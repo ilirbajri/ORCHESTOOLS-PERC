@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="1NST-TUBULAR" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="0" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/TB_hit_C4_v4_rr1.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="2.98325" Volume="-8" SampleStartMod="6000"
+          MonolithOffset="0" MonolithLength="847872" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/TB_hit_C5_v4_rr1.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.7678" Volume="-8" SampleStartMod="6000"
+          MonolithOffset="847872" MonolithLength="1863680" SampleRate="44100"/>
+  <sample Root="65" LoKey="62" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/TB_hit_F5_v3_rr1.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="12.7601" Volume="-8" SampleStartMod="6000"
+          MonolithOffset="2711552" MonolithLength="585728" SampleRate="44100"/>
+  <sample Root="55" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/TB_hit_G4_v4_rr1.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="2.19404" Volume="-8" SampleStartMod="6000"
+          MonolithOffset="3297280" MonolithLength="720896" SampleRate="44100"/>
+</samplemap>

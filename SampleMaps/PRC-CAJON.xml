@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-CAJON" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="71" LoKey="71" HiKey="72" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.55123" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="72" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.29147" SampleStartMod="1500"
+          MonolithOffset="57344" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="72" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07355" SampleStartMod="1500"
+          MonolithOffset="118784" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="72" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.25963" SampleStartMod="1500"
+          MonolithOffset="176128" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.28562" SampleStartMod="3000"
+          MonolithOffset="237568" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_f_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.44671" SampleStartMod="3000"
+          MonolithOffset="290816" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_mp_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.73865" SampleStartMod="3000"
+          MonolithOffset="348160" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_mp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.77272" SampleStartMod="3000"
+          MonolithOffset="425984" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.00003" MonolithOffset="487424"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_f_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.25673" MonolithOffset="552960"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_mp_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.51683" MonolithOffset="618496"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_mp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.84276" MonolithOffset="675840"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.28562" SampleStartMod="3000"
+          MonolithOffset="741376" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.44671" SampleStartMod="3000"
+          MonolithOffset="794624" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.73865" SampleStartMod="3000"
+          MonolithOffset="851968" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.77272" SampleStartMod="3000"
+          MonolithOffset="929792" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.28562" SampleStartMod="3000"
+          MonolithOffset="991232" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.44671" SampleStartMod="3000"
+          MonolithOffset="1044480" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.73865" SampleStartMod="3000"
+          MonolithOffset="1101824" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.77272" SampleStartMod="3000"
+          MonolithOffset="1179648" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.00003" MonolithOffset="1241088"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.25673" MonolithOffset="1306624"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.51683" MonolithOffset="1372160"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.84276" MonolithOffset="1429504"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.00003" MonolithOffset="1495040"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.25673" MonolithOffset="1560576"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.51683" MonolithOffset="1626112"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.84276" MonolithOffset="1683456"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.55123" SampleStartMod="1500"
+          MonolithOffset="1748992" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.29147" SampleStartMod="1500"
+          MonolithOffset="1806336" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.07355" SampleStartMod="1500"
+          MonolithOffset="1867776" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.25963" SampleStartMod="1500"
+          MonolithOffset="1925120" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.55123" SampleStartMod="1500"
+          MonolithOffset="1986560" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.29147" SampleStartMod="1500"
+          MonolithOffset="2043904" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.07355" SampleStartMod="1500"
+          MonolithOffset="2105344" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.25963" SampleStartMod="1500"
+          MonolithOffset="2162688" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.55123" SampleStartMod="1500"
+          MonolithOffset="2224128" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.29147" SampleStartMod="1500"
+          MonolithOffset="2281472" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.07355" SampleStartMod="1500"
+          MonolithOffset="2342912" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.25963" SampleStartMod="1500"
+          MonolithOffset="2400256" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.55123" SampleStartMod="1500"
+          MonolithOffset="2461696" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.29147" SampleStartMod="1500"
+          MonolithOffset="2519040" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.07355" SampleStartMod="1500"
+          MonolithOffset="2580480" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.25963" SampleStartMod="1500"
+          MonolithOffset="2637824" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.55123" SampleStartMod="1500"
+          MonolithOffset="2699264" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.29147" SampleStartMod="1500"
+          MonolithOffset="2756608" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.07355" SampleStartMod="1500"
+          MonolithOffset="2818048" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.25963" SampleStartMod="1500"
+          MonolithOffset="2875392" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_p_rr1.wav"
+          Duplicate="0" Normalized="0" NormalizedPeak="4.66382" SampleStartMod="1000"
+          MonolithOffset="2936832" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_p_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.28005" SampleStartMod="1000"
+          MonolithOffset="2998272" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_pp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.3463" SampleStartMod="1000"
+          MonolithOffset="3059712" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_pp_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.4451" SampleStartMod="1000"
+          MonolithOffset="3117056" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.25463" SampleStartMod="1000"
+          MonolithOffset="3178496" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.67805" SampleStartMod="1500"
+          MonolithOffset="3227648" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.25463" SampleStartMod="1000"
+          MonolithOffset="3289088" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.67805" SampleStartMod="1500"
+          MonolithOffset="3338240" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.25463" SampleStartMod="1000"
+          MonolithOffset="3399680" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.67805" SampleStartMod="1500"
+          MonolithOffset="3448832" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.25463" SampleStartMod="1000"
+          MonolithOffset="3510272" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.67805" SampleStartMod="1500"
+          MonolithOffset="3559424" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.25463" SampleStartMod="1000"
+          MonolithOffset="3620864" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_mp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.67805" SampleStartMod="1500"
+          MonolithOffset="3670016" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_pp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="11.3463" SampleStartMod="1000"
+          MonolithOffset="3731456" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit2_pp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.4451" SampleStartMod="1000"
+          MonolithOffset="3788800" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_p_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.66382" SampleStartMod="1000"
+          MonolithOffset="3850240" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_p_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.28005" SampleStartMod="1000"
+          MonolithOffset="3911680" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_p_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.66382" SampleStartMod="1000"
+          MonolithOffset="3973120" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit3_p_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.28005" SampleStartMod="1000"
+          MonolithOffset="4034560" MonolithLength="61440" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="ORC-TIMPANI 3" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1A_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.9768" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="0"
+          MonolithLength="536576" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1A_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.9645" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="536576"
+          MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1A_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.00631" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="761856" MonolithLength="454656"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1A_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.99505" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="1216512" MonolithLength="671744"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="51" HiKey="54" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1B_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.6589" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="1888256"
+          MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="50" LoKey="51" HiKey="54" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1B_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.7021" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="2416640"
+          MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="50" LoKey="51" HiKey="54" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1B_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.23498" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="2949120" MonolithLength="516096"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="51" HiKey="54" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1B_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.22342" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="3465216" MonolithLength="557056"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="57" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1C_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.32496" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="4022272"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="57" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1C_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.15487" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="4464640"
+          MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="57" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1C_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.17138" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="5111808" MonolithLength="659456"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="57" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1C_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.17073" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="5771264" MonolithLength="454656"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="60" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1D_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.1685" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="6225920"
+          MonolithLength="442368" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="60" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1D_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.0481" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="6668288"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="60" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1D_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.65452" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="7159808" MonolithLength="417792"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="60" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani1D_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.64702" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="7577600" MonolithLength="405504"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="64" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2A_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.62403" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="7983104"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="64" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2A_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.91953" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="8249344"
+          MonolithLength="294912" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="64" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2A_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.8016" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="8544256" MonolithLength="274432"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="64" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2A_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.71733" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="8818688" MonolithLength="274432"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="68" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2B_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.3719" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="9093120"
+          MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="68" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2B_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.1379" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="9469952"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="68" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2B_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.03387" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="9850880" MonolithLength="278528"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="68" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani2B_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.0312" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="10129408" MonolithLength="417792"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3A_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.0998" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="10547200"
+          MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3A_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.8095" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="10838016"
+          MonolithLength="331776" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3A_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.74212" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="11169792" MonolithLength="577536"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3A_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.7866" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="11747328" MonolithLength="319488"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="75" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3B_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.49779" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="12066816"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="75" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3B_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.39903" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="12333056"
+          MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="75" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3B_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.63064" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="12521472" MonolithLength="331776"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="75" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3B_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.62477" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="12853248" MonolithLength="253952"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="108" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3C_hit_v3_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.95406" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="13107200"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="108" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3C_hit_v3_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.92939" SampleStartMod="6000"
+          LowerVelocityXFade="0" UpperVelocityXFade="100" MonolithOffset="13340672"
+          MonolithLength="270336" SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="10" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3C_hit_v5_rr1_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.65984" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="13611008" MonolithLength="278528"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="10" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 2/Hit/Timpani3C_hit_v5_rr2_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.06623" SampleStartMod="6000"
+          LowerVelocityXFade="100" MonolithOffset="13889536" MonolithLength="241664"
+          SampleRate="44100"/>
+</samplemap>

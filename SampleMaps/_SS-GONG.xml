@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-GONG" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_fff.wav"
+          Duplicate="0" SampleStartMod="150000" Normalized="1" NormalizedPeak="2.00821"
+          MonolithOffset="0" MonolithLength="1208320" SampleRate="44100"/>
+</samplemap>

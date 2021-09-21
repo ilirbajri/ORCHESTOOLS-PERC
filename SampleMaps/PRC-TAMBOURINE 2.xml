@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-TAMBOURINE 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 5 - Legacy/tamb3_roll.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.2702" SampleStart="11470"
+          LoopEnabled="1" LoopEnd="432702" LoopStart="94315" LoopXFade="3000"
+          SampleStartMod="90000" MonolithOffset="0" MonolithLength="507904"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 4 - Legacy/tamb2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.28519" SampleStartMod="1500"
+          MonolithOffset="507904" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 5 - Legacy/tamb3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.91895" SampleStart="205"
+          SampleStartMod="1500" MonolithOffset="540672" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 5 - Legacy/tamb3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.36749" SampleStart="165"
+          SampleStartMod="1500" MonolithOffset="557056" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 5 - Legacy/tamb3_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.58187" SampleStart="342"
+          SampleStartMod="1500" MonolithOffset="573440" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 5 - Legacy/tamb3_rr4.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.91254" SampleStartMod="1500"
+          MonolithOffset="589824" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 5 - Legacy/tamb3_roll.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.2702" SampleStart="11470"
+          LoopEnabled="1" LoopEnd="432702" LoopStart="94315" LoopXFade="3000"
+          SampleStartMod="90000" MonolithOffset="606208" MonolithLength="507904"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 4 - Legacy/tamb2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.29984" SampleStart="575"
+          SampleStartMod="1500" MonolithOffset="1114112" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 4 - Legacy/tamb2_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.00259" SampleStart="331"
+          SampleStartMod="1500" MonolithOffset="1130496" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 4 - Legacy/tamb2_rr4.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.07826" SampleStart="641"
+          SampleStartMod="1500" MonolithOffset="1146880" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 4 - Legacy/tamb2_rollSlow.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.26211" LoopEnabled="1"
+          LoopStart="20488" LoopEnd="71389" LoopXFade="3000" SampleStartMod="25000"
+          SampleEnd="86275" MonolithOffset="1163264" MonolithLength="131072"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 4 - Legacy/tamb2_rollFast.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.84701" LoopEnabled="1"
+          LoopStart="43250" LoopEnd="139332" LoopXFade="2000" SampleStartMod="30000"
+          MonolithOffset="1294336" MonolithLength="208896" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Tambourine 4 - Legacy/tamb2_rollSlow.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.26211" LoopEnabled="1"
+          LoopStart="20488" LoopEnd="71389" LoopXFade="3000" SampleStartMod="25000"
+          SampleEnd="86275" MonolithOffset="1503232" MonolithLength="131072"
+          SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-CONGA" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.8508" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.2857" SampleStartMod="1500"
+          MonolithOffset="32768" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.50422" SampleStartMod="1500"
+          MonolithOffset="69632" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.60712" SampleStartMod="1500"
+          MonolithOffset="110592" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="61.9433" SampleStartMod="1500"
+          MonolithOffset="147456" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="68.9853" SampleStartMod="1500"
+          MonolithOffset="180224" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.5673" SampleStartMod="1500"
+          MonolithOffset="208896" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.09686" SampleStartMod="1500"
+          MonolithOffset="249856" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v1_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="61.9433" SampleStartMod="1500"
+          MonolithOffset="294912" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v1_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="68.9853" SampleStartMod="1500"
+          MonolithOffset="327680" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v2_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="9.5673" SampleStartMod="1500"
+          MonolithOffset="356352" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitFM1_v2_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.09686" SampleStartMod="1500"
+          MonolithOffset="397312" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v1_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="22.8508" SampleStartMod="1500"
+          MonolithOffset="442368" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v1_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.2857" SampleStartMod="1500"
+          MonolithOffset="475136" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v2_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.50422" SampleStartMod="1500"
+          MonolithOffset="512000" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v2_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.60712" SampleStartMod="1500"
+          MonolithOffset="552960" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v1_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="22.8508" SampleStartMod="1500"
+          MonolithOffset="589824" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v1_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.2857" SampleStartMod="1500"
+          MonolithOffset="622592" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v2_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.50422" SampleStartMod="1500"
+          MonolithOffset="659456" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitFM_v2_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.60712" SampleStartMod="1500"
+          MonolithOffset="700416" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2223" SampleStartMod="1500"
+          MonolithOffset="737280" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v3_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2314" SampleStartMod="1500"
+          MonolithOffset="761856" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.47973" SampleStartMod="1500"
+          MonolithOffset="786432" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.9098" SampleStartMod="1500"
+          MonolithOffset="827392" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.467" SampleStartMod="1500"
+          MonolithOffset="868352" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v3_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.3436" SampleStartMod="1500"
+          MonolithOffset="901120" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v4_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.707" SampleStartMod="1500"
+          MonolithOffset="933888" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v4_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.26659" SampleStartMod="1500"
+          MonolithOffset="974848" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.2223" SampleStartMod="1500"
+          MonolithOffset="1028096" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v3_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.2314" SampleStartMod="1500"
+          MonolithOffset="1052672" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.47973" SampleStartMod="1500"
+          MonolithOffset="1077248" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.9098" SampleStartMod="1500"
+          MonolithOffset="1118208" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.2223" SampleStartMod="1500"
+          MonolithOffset="1159168" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v3_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.2314" SampleStartMod="1500"
+          MonolithOffset="1183744" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.47973" SampleStartMod="1500"
+          MonolithOffset="1208320" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.9098" SampleStartMod="1500"
+          MonolithOffset="1249280" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.467" SampleStartMod="1500"
+          MonolithOffset="1290240" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v3_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.3436" SampleStartMod="1500"
+          MonolithOffset="1323008" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v4_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="11.707" SampleStartMod="1500"
+          MonolithOffset="1355776" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v4_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.26659" SampleStartMod="1500"
+          MonolithOffset="1396736" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.467" SampleStartMod="1500"
+          MonolithOffset="1449984" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v3_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.3436" SampleStartMod="1500"
+          MonolithOffset="1482752" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v4_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="11.707" SampleStartMod="1500"
+          MonolithOffset="1515520" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitN_v4_rr2_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.26659" SampleStartMod="1500"
+          MonolithOffset="1556480" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitN_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.3154" SampleStartMod="1500"
+          MonolithOffset="1609728" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitN_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.1546" SampleStartMod="1500"
+          MonolithOffset="1646592" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitN_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.65918" SampleStartMod="1500"
+          MonolithOffset="1687552" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Quinto_HitN_v3_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.41439" SampleStartMod="1500"
+          MonolithOffset="1740800" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitN_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.2368" SampleStartMod="1500"
+          MonolithOffset="1781760" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitN_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.99973" SampleStartMod="1500"
+          MonolithOffset="1818624" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitN_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.42636" SampleStartMod="1500"
+          MonolithOffset="1855488" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Conga_HitN_v3_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.99424" SampleStartMod="1500"
+          MonolithOffset="1916928" MonolithLength="45056" SampleRate="44100"/>
+</samplemap>

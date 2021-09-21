@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-LOG DRUM" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="54" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slit Drum/LogDrumHi_MedM_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.19632" SampleStartMod="2000"
+          MonolithOffset="0" MonolithLength="69632" SampleRate="44100"/>
+</samplemap>

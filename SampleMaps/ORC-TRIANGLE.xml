@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="ORC-TRIANGLE" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="89.2861" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="85.5561" SampleStartMod="1500"
+          MonolithOffset="196608" MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.4872" SampleStartMod="1500"
+          MonolithOffset="380928" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2269" SampleStartMod="1500"
+          MonolithOffset="647168" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitFM_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="66.7373" SampleStart="138"
+          SampleStartMod="1500" MonolithOffset="901120" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitFM_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="53.718" SampleStart="143"
+          SampleStartMod="1500" MonolithOffset="954368" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_hitFM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.2056" SampleStart="313"
+          SampleStartMod="1500" MonolithOffset="1007616" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_hitFM_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.6469" SampleStart="340"
+          SampleStartMod="1500" MonolithOffset="1110016" MonolithLength="98304"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitM_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="86.4591" SampleStart="202"
+          SampleStartMod="1500" MonolithOffset="1208320" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitM_v1_rr4_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="49.8752" SampleStart="90"
+          SampleStartMod="1500" MonolithOffset="1261568" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Roll_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.7032" LoopEnabled="1"
+          LoopEnd="598808" LoopStart="143899" LoopXFade="15000" SampleEnd="683910"
+          SampleStartMod="90000" MonolithOffset="1310720" MonolithLength="1232896"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Roll_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.7032" LoopEnabled="1"
+          LoopEnd="598808" LoopStart="143899" LoopXFade="15000" SampleEnd="683910"
+          SampleStartMod="90000" MonolithOffset="2543616" MonolithLength="1232896"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="3776512" MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="4149248" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.7269" SampleStartMod="500"
+          MonolithOffset="4464640" MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.0622" SampleStartMod="500"
+          MonolithOffset="4993024" MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="89.2861" SampleStartMod="1500"
+          MonolithOffset="5459968" MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="85.5561" SampleStartMod="1500"
+          MonolithOffset="5656576" MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="21.4872" SampleStartMod="1500"
+          MonolithOffset="5840896" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.2269" SampleStartMod="1500"
+          MonolithOffset="6107136" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="89.2861" SampleStartMod="1500"
+          MonolithOffset="6361088" MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="85.5561" SampleStartMod="1500"
+          MonolithOffset="6557696" MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="21.4872" SampleStartMod="1500"
+          MonolithOffset="6742016" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_Hit_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.2269" SampleStartMod="1500"
+          MonolithOffset="7008256" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitM_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="86.4591" SampleStart="202"
+          SampleStartMod="1500" MonolithOffset="7262208" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitM_v1_rr4_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="49.8752" SampleStart="90"
+          SampleStartMod="1500" MonolithOffset="7315456" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="7364608" MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="7737344" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.7269" SampleStartMod="500"
+          MonolithOffset="8052736" MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.0622" SampleStartMod="500"
+          MonolithOffset="8581120" MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitFM_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="66.7373" SampleStart="138"
+          SampleStartMod="1500" MonolithOffset="9048064" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_HitFM_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="53.718" SampleStart="143"
+          SampleStartMod="1500" MonolithOffset="9101312" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_hitFM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="15.2056" SampleStart="313"
+          SampleStartMod="1500" MonolithOffset="9154560" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle1_hitFM_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.6469" SampleStart="340"
+          SampleStartMod="1500" MonolithOffset="9256960" MonolithLength="98304"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="9355264" MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="9728000" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.7269" SampleStartMod="500"
+          MonolithOffset="10043392" MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="19.0622" SampleStartMod="500"
+          MonolithOffset="10571776" MonolithLength="466944" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_HitM_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="43.2296" SampleStartMod="1000"
+          MonolithOffset="11038720" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_HitM_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="45.1972" SampleStartMod="1000"
+          MonolithOffset="11108352" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_HitM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.8168" SampleStartMod="1000"
+          MonolithOffset="11173888" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_HitM_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.4712" SampleStartMod="1000"
+          MonolithOffset="11231232" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Roll_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.6336" SampleEnd="783254"
+          LoopEnabled="1" LoopStart="220358" LoopEnd="689438" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="11288576" MonolithLength="1736704"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_Hit_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="126.517" MonolithOffset="13025280"
+          MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_Hit_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="64.7589" MonolithOffset="13099008"
+          MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_Hit_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.9201" MonolithOffset="13217792"
+          MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_Hit_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.2753" MonolithOffset="13324288"
+          MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitFM_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="32.9327" SampleStartMod="500"
+          SampleStart="263" MonolithOffset="13418496" MonolithLength="73728"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitFM_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.9474" SampleStartMod="500"
+          SampleStart="281" MonolithOffset="13492224" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitFM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.4188" SampleStartMod="500"
+          SampleStart="275" MonolithOffset="13537280" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitFM_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.144" SampleStartMod="500"
+          SampleStart="288" MonolithOffset="13582336" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitM_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="32.8996" SampleStart="272"
+          MonolithOffset="13627392" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitM_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.619" SampleStart="312"
+          MonolithOffset="13684736" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.7312" SampleStart="290"
+          MonolithOffset="13729792" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_HitM_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.0863" SampleStart="346"
+          MonolithOffset="13778944" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Roll_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="15.6336" SampleEnd="783254"
+          LoopEnabled="1" LoopStart="220358" LoopEnd="689438" LoopXFade="15000"
+          SampleStartMod="90000" MonolithOffset="13828096" MonolithLength="1736704"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_Roll_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.9694" LoopEnabled="1"
+          LoopStart="165467" LoopEnd="730601" LoopXFade="15000" SampleStartMod="90000"
+          SampleEnd="808244" MonolithOffset="15564800" MonolithLength="1015808"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle6_Roll_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.9694" LoopEnabled="1"
+          LoopStart="165467" LoopEnd="730601" LoopXFade="15000" SampleStartMod="90000"
+          SampleEnd="808244" MonolithOffset="16580608" MonolithLength="1015808"
+          SampleRate="44100"/>
+</samplemap>

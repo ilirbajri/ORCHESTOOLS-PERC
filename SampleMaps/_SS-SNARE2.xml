@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-SNARE2" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="59" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Modern 1/Snare2_HitSN_v9_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.40732" SampleStartMod="3000"
+          MonolithOffset="0" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="59" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Modern 1/Snare2_HitSN_v9_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.42253" SampleStartMod="3000"
+          MonolithOffset="73728" MonolithLength="69632" SampleRate="44100"/>
+</samplemap>

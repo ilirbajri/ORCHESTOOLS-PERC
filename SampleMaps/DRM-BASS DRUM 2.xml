@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="DRM-BASS DRUM 2" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_ff.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.17424" SampleStartMod="6000"
+          MonolithOffset="0" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_f.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.50023" SampleStartMod="6000"
+          SampleStart="959" MonolithOffset="552960" MonolithLength="487424"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.50023" SampleStartMod="6000"
+          SampleStart="995" MonolithOffset="1040384" MonolithLength="487424"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_ff.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.17424" SampleStartMod="6000"
+          MonolithOffset="1527808" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_pp2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.9676" SampleStartMod="6000"
+          SampleStart="2054" MonolithOffset="2080768" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.57801" SampleStartMod="6000"
+          SampleStart="3620" MonolithOffset="2482176" MonolithLength="425984"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_pp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.2557" SampleStartMod="6000"
+          SampleStart="2385" MonolithOffset="2908160" MonolithLength="385024"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.19815" SampleStartMod="6000"
+          SampleStart="1916" MonolithOffset="3293184" MonolithLength="438272"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_pp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.9676" SampleStartMod="6000"
+          SampleStart="1878" MonolithOffset="3731456" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.57801" SampleStartMod="6000"
+          SampleStart="3589" MonolithOffset="4132864" MonolithLength="425984"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.2557" SampleStartMod="6000"
+          SampleStart="2609" MonolithOffset="4558848" MonolithLength="385024"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.19815" SampleStartMod="6000"
+          SampleStart="2044" MonolithOffset="4943872" MonolithLength="438272"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_pp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.9676" SampleStartMod="6000"
+          SampleStart="1966" MonolithOffset="5382144" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.57801" SampleStartMod="6000"
+          SampleStart="3557" MonolithOffset="5783552" MonolithLength="425984"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.2557" SampleStartMod="6000"
+          SampleStart="2413" MonolithOffset="6209536" MonolithLength="385024"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.19815" SampleStartMod="6000"
+          SampleStart="1916" MonolithOffset="6594560" MonolithLength="438272"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_ff.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.17424" SampleStartMod="6000"
+          MonolithOffset="7032832" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.50023" SampleStartMod="6000"
+          SampleStart="1030" MonolithOffset="7585792" MonolithLength="487424"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.50023" SampleStartMod="6000"
+          SampleStart="959" MonolithOffset="8073216" MonolithLength="487424"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_ff.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.17424" SampleStartMod="6000"
+          MonolithOffset="8560640" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_ff.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.17424" SampleStartMod="6000"
+          MonolithOffset="9113600" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.50023" SampleStartMod="6000"
+          SampleStart="995" MonolithOffset="9666560" MonolithLength="487424"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.50023" SampleStartMod="6000"
+          SampleStart="924" MonolithOffset="10153984" MonolithLength="487424"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_ff.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.17424" SampleStartMod="6000"
+          MonolithOffset="10641408" MonolithLength="552960" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_f.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.38512" LoopEnabled="1"
+          LoopStart="112850" LoopEnd="445940" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="11194368" MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_pp.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.34853" LoopEnabled="1"
+          LoopStart="65355" LoopEnd="237192" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="11677696" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_mp.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.65258" LoopEnabled="1"
+          LoopStart="112887" LoopEnd="400181" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="11931648" MonolithLength="479232" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_mf.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.9752" LoopEnabled="1"
+          LoopStart="143545" LoopEnd="555091" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="12410880" MonolithLength="610304" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.38512" LoopEnabled="1"
+          LoopStart="112850" LoopEnd="445940" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="13021184" MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_pp.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.34853" LoopEnabled="1"
+          LoopStart="65355" LoopEnd="237192" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="13504512" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_mp.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.65258" LoopEnabled="1"
+          LoopStart="112887" LoopEnd="400181" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="13758464" MonolithLength="479232" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_mf.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.9752" LoopEnabled="1"
+          LoopStart="143545" LoopEnd="555091" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="14237696" MonolithLength="610304" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_pp.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.8423" LoopEnabled="1"
+          LoopStart="94997" LoopEnd="518773" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="14848000" MonolithLength="593920" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.38512" LoopEnabled="1"
+          LoopStart="112850" LoopEnd="445940" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="15441920" MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_f.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.38512" LoopEnabled="1"
+          LoopStart="112850" LoopEnd="445940" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="15925248" MonolithLength="483328" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_mp.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.47957" LoopEnabled="1"
+          LoopStart="93218" LoopEnd="298897" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="16408576" MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_mf.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.30756" LoopEnabled="1"
+          LoopStart="147889" LoopEnd="475061" LoopXFade="0" SampleStartMod="90000"
+          MonolithOffset="16752640" MonolithLength="557056" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_ff.wav"
+          Duplicate="0" LoopEnabled="1" NormalizedPeak="2.53858" Normalized="1"
+          LoopStart="191587" LoopEnd="593835" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="17309696" MonolithLength="692224" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.1187" MonolithOffset="18001920"
+          MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub7.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.5324" MonolithOffset="18345984"
+          MonolithLength="217088" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub10.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.7723" MonolithOffset="18563072"
+          MonolithLength="385024" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub12.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.54826" MonolithOffset="18948096"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_pp.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="25.8423" LoopEnabled="1"
+          LoopStart="94997" LoopEnd="518773" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="19443712" MonolithLength="593920" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_mf.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.30756" LoopEnabled="1"
+          LoopStart="147889" LoopEnd="475061" LoopXFade="0" SampleStartMod="90000"
+          MonolithOffset="20037632" MonolithLength="557056" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_ff.wav"
+          Duplicate="1" LoopEnabled="1" NormalizedPeak="2.53858" Normalized="1"
+          LoopStart="191587" LoopEnd="593835" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="20594688" MonolithLength="692224" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_roll_mp.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.47957" LoopEnabled="1"
+          LoopStart="93218" LoopEnd="298897" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="21286912" MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.1187" MonolithOffset="21630976"
+          MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub7.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.5324" MonolithOffset="21975040"
+          MonolithLength="217088" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub10.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.7723" MonolithOffset="22192128"
+          MonolithLength="385024" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_rub12.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.54826" MonolithOffset="22577152"
+          MonolithLength="495616" SampleRate="44100"/>
+</samplemap>

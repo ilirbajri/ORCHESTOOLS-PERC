@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="1NST-GLOCKENSPIEL" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="72" LoKey="68" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Glock/glock_medium_C5.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.2228" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="84" LoKey="80" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Glock/glock_medium_C6.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.4591" SampleStartMod="1500"
+          MonolithOffset="319488" MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="96" LoKey="92" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Glock/glock_medium_C7.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.1134" SampleStartMod="1500"
+          MonolithOffset="638976" MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="67" LoKey="0" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Glock/glock_medium_G4.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.2772" SampleStartMod="1500"
+          MonolithOffset="765952" MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="79" LoKey="74" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Glock/glock_medium_G5.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.1953" SampleStartMod="1500"
+          MonolithOffset="1085440" MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="91" LoKey="86" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Glock/glock_medium_G6.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.5154" SampleStartMod="1500"
+          MonolithOffset="1392640" MonolithLength="212992" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-WOODEN" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Vibraslap/Legacy/vibraslap_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.0454" MonolithOffset="0"
+          MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Vibraslap/Legacy/vibraslap_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.1243" MonolithOffset="126976"
+          MonolithLength="155648" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slapstick/slapstick_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07535" SampleStartMod="800"
+          MonolithOffset="282624" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slapstick/slapstick_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.09948" SampleStart="539"
+          SampleStartMod="800" MonolithOffset="344064" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slapstick/slapstick_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08064" SampleStart="673"
+          SampleStartMod="800" MonolithOffset="376832" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slapstick/slapstick_quiet_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.90602" SampleStart="414"
+          SampleStartMod="400" MonolithOffset="409600" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slapstick/slapstick_quiet_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.6341" SampleStart="607"
+          SampleStartMod="400" MonolithOffset="421888" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Ratchet/Ratchet1_Crank_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.69178" MonolithOffset="438272"
+          MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Ratchet/Ratchet1_Crank_rr3_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.2882" MonolithOffset="512000"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Ratchet/Ratchet1_Slow_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.42693" LoopEnabled="1"
+          LoopStart="66451" LoopEnd="171584" LoopXFade="1500" SampleEnd="191420"
+          SampleStartMod="30000" MonolithOffset="573440" MonolithLength="397312"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Ratchet/Ratchet1_Fast_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.78427" LoopEnabled="1"
+          LoopEnd="125356" LoopStart="64636" SampleEnd="139850" LoopXFade="1500"
+          SampleStartMod="60000" MonolithOffset="970752" MonolithLength="315392"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Ratchet/Ratchet2_Crank_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.85504" MonolithOffset="1286144"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Ratchet/Ratchet2_Slow_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.4571" LoopEnabled="1"
+          LoopStart="89564" LoopEnd="220509" LoopXFade="1500" SampleStartMod="60000"
+          MonolithOffset="1351680" MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Guiro/Guiro_Slow_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="59.9049" SampleStartMod="600"
+          MonolithOffset="1806336" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Guiro/Guiro_Med_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="75.8519" SampleStartMod="600"
+          MonolithOffset="1916928" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Guiro/Guiro_Fast_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="33.099" SampleStartMod="600"
+          MonolithOffset="2002944" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Guiro/Guiro_Hit_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="52.6817" SampleStartMod="600"
+          MonolithOffset="2072576" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Guiro/Guiro_Hit_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.362" SampleStartMod="600"
+          MonolithOffset="2129920" MonolithLength="61440" SampleRate="44100"/>
+</samplemap>

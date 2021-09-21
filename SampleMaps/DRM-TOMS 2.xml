@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="DRM-TOMS 2" RRGroupAmount="3" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.89757" SampleStartMod="3000"
+          MonolithOffset="0" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_f_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.51067" SampleStartMod="3000"
+          MonolithOffset="86016" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_f_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.76586" SampleStartMod="3000"
+          MonolithOffset="172032" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_ff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.49586" SampleStartMod="3000"
+          MonolithOffset="258048" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_ff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.35653" SampleStartMod="3000"
+          MonolithOffset="331776" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="40" HiVel="79" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_ff_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.54051" SampleStartMod="3000"
+          MonolithOffset="421888" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_fff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06551" SampleStartMod="3000"
+          MonolithOffset="507904" MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_fff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.16609" SampleStartMod="3000"
+          MonolithOffset="602112" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="59" LoVel="80" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_higher/tenorH_fff_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08387" SampleStartMod="3000"
+          MonolithOffset="679936" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_ff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.93205" SampleStartMod="3000"
+          MonolithOffset="761856" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_ff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.2239" SampleStartMod="3000"
+          MonolithOffset="827392" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="40" HiVel="79" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_ff_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.5825" SampleStartMod="3000"
+          MonolithOffset="946176" MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_fff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.09073" SampleStartMod="3000"
+          MonolithOffset="1060864" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_fff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.09486" SampleStartMod="3000"
+          MonolithOffset="1134592" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="80" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_fff_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.46305" SampleStartMod="3000"
+          MonolithOffset="1204224" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_mf_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.85195" SampleStartMod="3000"
+          MonolithOffset="1323008" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_mf_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.0297" SampleStartMod="3000"
+          MonolithOffset="1409024" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="0" HiVel="39" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Toms/tenor_lower/tenor_mf_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.7017" SampleStartMod="3000"
+          MonolithOffset="1458176" MonolithLength="110592" SampleRate="44100"/>
+</samplemap>

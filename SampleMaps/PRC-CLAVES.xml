@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-CLAVES" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Claves1_Hit_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="85.5561" Volume="-4"
+          MonolithOffset="0" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Claves1_Hit_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.2782" Volume="-2"
+          MonolithOffset="53248" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Claves1_Hit_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.18153" MonolithOffset="102400"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Claves2_Hit_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="54.7045" MonolithOffset="159744"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Claves2_Hit_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.3227" MonolithOffset="192512"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Claves2_Hit_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.4287" MonolithOffset="241664"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Legacy/claves_pp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.7997" SampleStartMod="600"
+          Volume="2" MonolithOffset="299008" MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Legacy/claves_mp.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.63568" SampleStartMod="600"
+          Volume="2" MonolithOffset="307200" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Legacy/claves_mf_3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.89522" SampleStartMod="600"
+          Volume="2" MonolithOffset="327680" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Legacy/claves_mf_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.67363" SampleStartMod="600"
+          Volume="2" MonolithOffset="348160" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Legacy/claves_mf.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.70706" SampleStartMod="600"
+          Volume="2" MonolithOffset="368640" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claves/Legacy/claves_ff.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.53242" SampleStartMod="600"
+          Volume="2" MonolithOffset="393216" MonolithLength="36864" SampleRate="44100"/>
+</samplemap>

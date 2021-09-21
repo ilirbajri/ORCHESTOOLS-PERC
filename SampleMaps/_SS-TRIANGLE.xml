@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-TRIANGLE" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="55" LoKey="0" HiKey="127" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="0" MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="127" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="54.0726" SampleStartMod="500"
+          MonolithOffset="372736" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="127" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.7269" SampleStartMod="500"
+          MonolithOffset="688128" MonolithLength="528384" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="127" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Triangles/Triangle3_Hit_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.0622" SampleStartMod="500"
+          MonolithOffset="1216512" MonolithLength="466944" SampleRate="44100"/>
+</samplemap>

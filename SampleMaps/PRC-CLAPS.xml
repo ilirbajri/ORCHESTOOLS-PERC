@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-CLAPS" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr1.wav"
+          Duplicate="0" MonolithOffset="0" MonolithLength="36864" SampleRate="48000"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr2.wav"
+          Duplicate="0" MonolithOffset="36864" MonolithLength="36864" SampleRate="48000"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr3.wav"
+          Duplicate="0" MonolithOffset="73728" MonolithLength="36864" SampleRate="48000"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr4.wav"
+          Duplicate="0" MonolithOffset="110592" MonolithLength="40960"
+          SampleRate="48000"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr5.wav"
+          Duplicate="0" MonolithOffset="151552" MonolithLength="32768"
+          SampleRate="48000"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr6.wav"
+          Duplicate="0" MonolithOffset="184320" MonolithLength="24576"
+          SampleRate="48000"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/SoloClap_vl1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.48878" SampleStart="1240"
+          MonolithOffset="208896" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/SoloClap_vl2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.7657" SampleStart="2139"
+          MonolithOffset="225280" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/SoloClap_vl3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.6692" SampleStart="1609"
+          MonolithOffset="241664" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/SoloClap_vl4.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08976" SampleStart="1849"
+          MonolithOffset="270336" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr2.wav"
+          Duplicate="1" MonolithOffset="290816" MonolithLength="36864"
+          SampleRate="48000"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Claps/Clap_rr5.wav"
+          Duplicate="1" MonolithOffset="327680" MonolithLength="32768"
+          SampleRate="48000"/>
+</samplemap>

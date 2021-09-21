@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="DRM-TOMS 1" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.4035" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="0" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.24986" SampleStartMod="3000"
+          MonolithOffset="106496" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v4_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.0101" Volume="2"
+          SampleStartMod="3000" MonolithOffset="212992" MonolithLength="135168"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.0845" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="348160" MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v3_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.61846" SampleStartMod="3000"
+          MonolithOffset="462848" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v4_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.7657" Volume="2"
+          SampleStartMod="3000" MonolithOffset="573440" MonolithLength="143360"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="62" HiKey="62" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.4035" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="716800" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="60" LoKey="62" HiKey="62" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.24986" SampleStartMod="3000"
+          MonolithOffset="823296" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="60" LoKey="62" HiKey="62" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v4_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.0101" Volume="2"
+          SampleStartMod="3000" MonolithOffset="929792" MonolithLength="135168"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="62" HiKey="62" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.0845" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="1064960" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="62" HiKey="62" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.61846" SampleStartMod="3000"
+          MonolithOffset="1179648" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="60" LoKey="62" HiKey="62" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v4_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.7657" Volume="2"
+          SampleStartMod="3000" MonolithOffset="1290240" MonolithLength="143360"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="64" HiKey="65" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.4035" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="1433600" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="64" HiKey="65" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.24986" SampleStartMod="3000"
+          MonolithOffset="1540096" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="60" LoKey="64" HiKey="65" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v4_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.0101" Volume="2"
+          SampleStartMod="3000" MonolithOffset="1646592" MonolithLength="135168"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="64" HiKey="65" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.0845" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="1781760" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="64" HiKey="65" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.61846" SampleStartMod="3000"
+          MonolithOffset="1896448" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="60" LoKey="64" HiKey="65" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_HitS_v4_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.7657" Volume="2"
+          SampleStartMod="3000" MonolithOffset="2007040" MonolithLength="143360"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/TomH_rimFLS_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.6905" SampleStartMod="3000"
+          MonolithOffset="2150400" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/TomH_rimFLS_rr4_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.1754" SampleStartMod="3000"
+          MonolithOffset="2215936" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/TomH_rimS_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="53.8062" SampleStartMod="1500"
+          MonolithOffset="2277376" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/TomH_rimS_v4_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.88262" SampleStartMod="1500"
+          MonolithOffset="2326528" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/TomH_rimS_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="53.3681" SampleStartMod="1500"
+          MonolithOffset="2412544" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/TomH_rimS_v4_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.16844" SampleStartMod="1500"
+          MonolithOffset="2465792" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_RollS_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.4607" LoopEnabled="1"
+          LoopStart="108158" LoopEnd="344086" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="2543616" MonolithLength="475136" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_RollS_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="98.997" LoopEnabled="1"
+          LoopStart="110285" LoopEnd="346218" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="3018752" MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_RollS_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="14.4607" LoopEnabled="1"
+          LoopStart="111723" LoopEnd="338737" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="3457024" MonolithLength="475136" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Stick/TomH_RollS_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="98.997" LoopEnabled="1"
+          LoopStart="90532" LoopEnd="337988" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="3932160" MonolithLength="438272" SampleRate="44100"/>
+  <sample Root="67" LoKey="69" HiKey="69" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.2701" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="4370432" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="69" HiKey="69" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.35531" SampleStartMod="3000"
+          MonolithOffset="4485120" MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="67" LoKey="69" HiKey="69" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="4612096" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="69" HiKey="69" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.8647" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="4730880" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="69" HiKey="69" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="4849664" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="69" HiKey="69" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.92938" Volume="2"
+          SampleStartMod="3000" MonolithOffset="4968448" MonolithLength="126976"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="69" HiKey="69" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.48713" Volume="2"
+          SampleStartMod="3000" MonolithOffset="5095424" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.2701" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="5214208" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.35531" SampleStartMod="3000"
+          MonolithOffset="5328896" MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="5455872" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.8647" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="5574656" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="5693440" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.92938" Volume="2"
+          SampleStartMod="3000" MonolithOffset="5812224" MonolithLength="126976"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.48713" Volume="2"
+          SampleStartMod="3000" MonolithOffset="5939200" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="72" HiKey="72" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.2701" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="6057984" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="72" HiKey="72" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.35531" SampleStartMod="3000"
+          MonolithOffset="6172672" MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="67" LoKey="72" HiKey="72" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="6299648" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="72" HiKey="72" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.8647" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="6418432" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="72" HiKey="72" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="6537216" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="72" HiKey="72" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.92938" Volume="2"
+          SampleStartMod="3000" MonolithOffset="6656000" MonolithLength="126976"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="72" HiKey="72" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.48713" Volume="2"
+          SampleStartMod="3000" MonolithOffset="6782976" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="68" LoKey="70" HiKey="70" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="80.3137" LoopEnabled="1"
+          LoopStart="122188" LoopEnd="324995" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="6901760" MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="68" LoKey="70" HiKey="70" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.3651" LoopEnabled="1"
+          LoopStart="82683" LoopEnd="233058" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="7405568" MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="68" LoKey="70" HiKey="70" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="80.3137" LoopEnabled="1"
+          LoopXFade="15000" SampleStartMod="90000" LoopStart="137934" LoopEnd="318697"
+          MonolithOffset="7770112" MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="68" LoKey="70" HiKey="70" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.3651" LoopEnabled="1"
+          SampleStart="0" SampleEnd="361627" LoopXFade="15000" LoopStart="69054"
+          LoopEnd="230332" SampleStartMod="90000" MonolithOffset="8273920"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="80.3137" LoopEnabled="1"
+          LoopStart="122188" LoopEnd="324995" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="8638464" MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.3651" LoopEnabled="1"
+          LoopStart="82683" LoopEnd="233058" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="9142272" MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="80.3137" LoopEnabled="1"
+          LoopXFade="15000" SampleStartMod="90000" LoopStart="137934" LoopEnd="318697"
+          MonolithOffset="9506816" MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_RollM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.3651" LoopEnabled="1"
+          SampleStart="0" SampleEnd="361627" LoopXFade="15000" LoopStart="69054"
+          LoopEnd="230332" SampleStartMod="90000" MonolithOffset="10010624"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="49" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/TomL_rimFLS_rr4_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.6751" SampleStartMod="5000"
+          Pan="-16" MonolithOffset="10375168" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/TomL_rimS_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="43.6325" SampleStartMod="3000"
+          MonolithOffset="10432512" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/TomL_rimS_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="53.9835" SampleStartMod="3000"
+          MonolithOffset="10481664" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v2_rr1_Mid.wav"
+          Duplicate="0" SampleStartMod="3000" Normalized="1" NormalizedPeak="17.0223"
+          Volume="-2" MonolithOffset="10526720" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v3_rr1_Mid.wav"
+          Duplicate="0" SampleStartMod="3000" Normalized="1" NormalizedPeak="4.92086"
+          MonolithOffset="10633216" MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v4_rr1_Mid.wav"
+          Duplicate="0" SampleStartMod="3000" Normalized="1" NormalizedPeak="2.63281"
+          Volume="2" MonolithOffset="10764288" MonolithLength="151552"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v2_rr2_Mid.wav"
+          Duplicate="0" SampleStartMod="3000" Normalized="1" NormalizedPeak="19.2866"
+          Volume="-2" MonolithOffset="10915840" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v3_rr2_Mid.wav"
+          Duplicate="0" SampleStartMod="3000" Normalized="1" NormalizedPeak="5.58799"
+          MonolithOffset="11030528" MonolithLength="139264" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v4_rr2_Mid.wav"
+          Duplicate="0" SampleStartMod="3000" Normalized="1" NormalizedPeak="3.10509"
+          Volume="2" MonolithOffset="11169792" MonolithLength="147456"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v2_rr1_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="17.0223"
+          Volume="-2" MonolithOffset="11317248" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v3_rr1_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="4.92086"
+          MonolithOffset="11423744" MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v4_rr1_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="2.63281"
+          Volume="2" MonolithOffset="11554816" MonolithLength="151552"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v2_rr2_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="19.2866"
+          Volume="-2" MonolithOffset="11706368" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v3_rr2_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="5.58799"
+          MonolithOffset="11821056" MonolithLength="139264" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v4_rr2_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="3.10509"
+          Volume="2" MonolithOffset="11960320" MonolithLength="147456"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v2_rr1_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="17.0223"
+          Volume="-2" MonolithOffset="12107776" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v3_rr1_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="4.92086"
+          MonolithOffset="12214272" MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v4_rr1_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="2.63281"
+          Volume="2" MonolithOffset="12345344" MonolithLength="151552"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v2_rr2_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="19.2866"
+          Volume="-2" MonolithOffset="12496896" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v3_rr2_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="5.58799"
+          MonolithOffset="12611584" MonolithLength="139264" SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_HitS_v4_rr2_Mid.wav"
+          Duplicate="1" SampleStartMod="3000" Normalized="1" NormalizedPeak="3.10509"
+          Volume="2" MonolithOffset="12750848" MonolithLength="147456"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_RollS_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="132.129" LoopEnabled="1"
+          LoopXFade="15000" SampleStartMod="90000" LoopStart="85152" LoopEnd="218009"
+          MonolithOffset="12898304" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_RollS_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="27.1258" LoopEnabled="1"
+          LoopStart="120951" LoopEnd="297094" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="13254656" MonolithLength="471040" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_RollS_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="132.129" LoopEnabled="1"
+          LoopXFade="15000" SampleStartMod="90000" LoopStart="85152" LoopEnd="218009"
+          MonolithOffset="13725696" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Stick/TomL_RollS_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="27.1258" LoopEnabled="1"
+          LoopStart="120951" LoopEnd="297094" LoopXFade="15000" SampleStartMod="90000"
+          MonolithOffset="14082048" MonolithLength="471040" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.0063" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="14553088" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.018" SampleStartMod="3000"
+          MonolithOffset="14655488" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v4_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.12807" SampleStartMod="3000"
+          Volume="2" MonolithOffset="14761984" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="27.2612" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="14868480" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v3_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.18597" SampleStartMod="3000"
+          MonolithOffset="14983168" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v4_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.33449" SampleStartMod="3000"
+          Volume="2" MonolithOffset="15089664" MonolithLength="139264"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="57" HiKey="57" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="26.0063" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="15228928" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="57" HiKey="57" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.018" SampleStartMod="3000"
+          MonolithOffset="15331328" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="55" LoKey="57" HiKey="57" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v4_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.12807" SampleStartMod="3000"
+          Volume="2" MonolithOffset="15437824" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="57" HiKey="57" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="27.2612" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="15544320" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="57" HiKey="57" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.18597" SampleStartMod="3000"
+          MonolithOffset="15659008" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="55" LoKey="57" HiKey="57" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v4_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.33449" SampleStartMod="3000"
+          Volume="2" MonolithOffset="15765504" MonolithLength="139264"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="59" HiKey="59" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="26.0063" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="15904768" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="59" HiKey="59" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.018" SampleStartMod="3000"
+          MonolithOffset="16007168" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="55" LoKey="59" HiKey="59" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v4_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.12807" SampleStartMod="3000"
+          Volume="2" MonolithOffset="16113664" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="59" HiKey="59" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="27.2612" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="16220160" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="59" HiKey="59" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.18597" SampleStartMod="3000"
+          MonolithOffset="16334848" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="55" LoKey="59" HiKey="59" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_HitM_v4_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.33449" SampleStartMod="3000"
+          Volume="2" MonolithOffset="16441344" MonolithLength="139264"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="116.199" LoopEnabled="1"
+          SampleStartMod="90000" LoopStart="113211" LoopEnd="300207" LoopXFade="15000"
+          MonolithOffset="16580608" MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="56" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.2736" LoopEnabled="1"
+          SampleStartMod="90000" SampleEnd="407175" LoopStart="84401" LoopEnd="262924"
+          LoopXFade="15000" MonolithOffset="17031168" MonolithLength="409600"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="116.199" LoopEnabled="1"
+          SampleStartMod="90000" LoopStart="123349" LoopEnd="291758" LoopXFade="15000"
+          MonolithOffset="17440768" MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="56" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.2736" LoopEnabled="1"
+          SampleStartMod="90000" LoopStart="106397" LoopEnd="258832" LoopXFade="15000"
+          MonolithOffset="17891328" MonolithLength="409600" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="116.199" LoopEnabled="1"
+          SampleStartMod="90000" LoopStart="113211" LoopEnd="300207" LoopXFade="15000"
+          MonolithOffset="18300928" MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.2736" LoopEnabled="1"
+          SampleStartMod="90000" SampleEnd="407175" LoopStart="84401" LoopEnd="262924"
+          LoopXFade="15000" MonolithOffset="18751488" MonolithLength="409600"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="116.199" LoopEnabled="1"
+          SampleStartMod="90000" LoopStart="123349" LoopEnd="291758" LoopXFade="15000"
+          MonolithOffset="19161088" MonolithLength="450560" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/Mallet/TomL_RollM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.2736" LoopEnabled="1"
+          SampleStartMod="90000" LoopStart="106397" LoopEnd="258832" LoopXFade="15000"
+          MonolithOffset="19611648" MonolithLength="409600" SampleRate="44100"/>
+  <sample Root="67" LoKey="71" HiKey="71" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.2701" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="20021248" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="71" HiKey="71" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.35531" SampleStartMod="3000"
+          MonolithOffset="20135936" MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="67" LoKey="71" HiKey="71" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="20262912" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="71" HiKey="71" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.8647" SampleStartMod="3000"
+          Volume="-2" MonolithOffset="20381696" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="71" HiKey="71" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.17172" SampleStartMod="3000"
+          MonolithOffset="20500480" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="67" LoKey="71" HiKey="71" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.92938" Volume="2"
+          SampleStartMod="3000" MonolithOffset="20619264" MonolithLength="126976"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="71" HiKey="71" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 1/Mallet/TomH_HitM_v4_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.48713" Volume="2"
+          SampleStartMod="3000" MonolithOffset="20746240" MonolithLength="118784"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Tom 2/TomL_rimFLS_rr4_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="34.6751" SampleStartMod="5000"
+          Pan="-16" MonolithOffset="20865024" MonolithLength="57344" SampleRate="44100"/>
+</samplemap>

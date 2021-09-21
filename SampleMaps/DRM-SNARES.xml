@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="DRM-SNARES" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.53067" SampleStart="1134"
+          SampleStartMod="3000" MonolithOffset="0" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_f_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.57158" SampleStart="1001"
+          MonolithOffset="32768" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_ff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.96047" SampleStart="389"
+          SampleStartMod="3000" MonolithOffset="65536" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_ff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.45003" SampleStart="776"
+          MonolithOffset="94208" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_fff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.22742" SampleStart="1155"
+          SampleStartMod="3000" MonolithOffset="122880" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_fff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08082" SampleStart="1018"
+          MonolithOffset="155648" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_nosnare_fff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.51674" SampleStart="1333"
+          SampleStartMod="1500" MonolithOffset="188416" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_nosnare_fff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.57634" SampleStart="1642"
+          Volume="2" MonolithOffset="212992" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_nosnare_mf_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.11225" SampleStart="997"
+          SampleStartMod="1500" MonolithOffset="249856" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_nosnare_mf_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.66125" SampleStart="1026"
+          MonolithOffset="274432" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_nosnare_mp_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.8855" SampleStart="799"
+          SampleStartMod="1500" MonolithOffset="294912" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_nosnare_mp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.05606" SampleStart="1053"
+          MonolithOffset="315392" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_rim_fff_rr1.wav"
+          Duplicate="0" SampleStart="922" Normalized="1" NormalizedPeak="1.18823"
+          SampleStartMod="2000" MonolithOffset="339968" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_rim_fff_rr1.wav"
+          Duplicate="1" SampleStart="860" Normalized="1" NormalizedPeak="1.18823"
+          MonolithOffset="389120" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_rimshot_f.wav"
+          Duplicate="0" SampleStart="1079" MonolithOffset="438272" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_rimshot_f.wav"
+          Duplicate="1" SampleStart="1079" SampleStartMod="1500" MonolithOffset="466944"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_rimshot_mf.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.80867" SampleStart="1278"
+          MonolithOffset="495616" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_rimshot_mf.wav"
+          Duplicate="1" SampleStart="1220" Normalized="1" NormalizedPeak="2.80867"
+          SampleStartMod="1500" MonolithOffset="520192" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_click.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.9994" SampleStart="1273"
+          SampleStartMod="500" MonolithOffset="544768" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_click2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.97965" SampleStart="1476"
+          SampleStartMod="500" MonolithOffset="561152" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_click3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.545" SampleStart="1313"
+          SampleStartMod="500" MonolithOffset="577536" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum1/snare1_click4.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.69628" SampleStart="1568"
+          SampleStartMod="500" MonolithOffset="593920" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_nosnare_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.17769" SampleStartMod="1500"
+          SampleStart="1211" MonolithOffset="606208" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_nosnare_f_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.8072" SampleStartMod="1500"
+          SampleStart="1078" MonolithOffset="630784" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_nosnare_mf_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.06468" SampleStartMod="1500"
+          SampleStart="1040" MonolithOffset="655360" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_nosnare_mf_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.94051" SampleStartMod="1500"
+          SampleStart="1049" MonolithOffset="675840" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_nosnare_p_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.4956" SampleStartMod="1500"
+          SampleStart="1584" MonolithOffset="700416" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_nosnare_p_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.4004" SampleStartMod="1500"
+          SampleStart="689" MonolithOffset="729088" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_mf_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.22118" SampleStart="1463"
+          MonolithOffset="745472" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_mf_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.22118" SampleStart="1463"
+          SampleStartMod="1500" MonolithOffset="765952" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.32577" SampleStart="1655"
+          SampleStartMod="3000" MonolithOffset="786432" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_ff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.4561" SampleStart="1182"
+          SampleStartMod="3000" MonolithOffset="815104" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_f_rr2.wav"
+          Duplicate="0" SampleStart="1086" Normalized="1" NormalizedPeak="2.71307"
+          MonolithOffset="843776" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_f_rr2.wav"
+          Duplicate="1" SampleStart="1086" Normalized="1" NormalizedPeak="2.71307"
+          SampleStartMod="2000" MonolithOffset="880640" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.32577" SampleStart="1655"
+          SampleStartMod="3000" MonolithOffset="917504" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum2/snare2_rimshot_ff_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.4561" SampleStart="1182"
+          SampleStartMod="3000" MonolithOffset="946176" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_click_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.46845" SampleStart="1318"
+          SampleStartMod="500" MonolithOffset="974848" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_click_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.2571" SampleStart="1180"
+          SampleStartMod="500" MonolithOffset="995328" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="62" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_click_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="9.46845" SampleStart="1318"
+          SampleStartMod="800" MonolithOffset="1007616" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="63" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_click_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="11.2571" SampleStart="1230"
+          SampleStartMod="800" MonolithOffset="1028096" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_f_rr1.wav"
+          Duplicate="0" SampleStart="1365" SampleStartMod="1000" Normalized="1"
+          NormalizedPeak="3.27874" MonolithOffset="1040384" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_f_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.92169" SampleStartMod="1000"
+          SampleStart="963" MonolithOffset="1069056" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_p_rr1.wav"
+          Duplicate="0" SampleStart="847" SampleStartMod="1000" Normalized="1"
+          NormalizedPeak="22.4003" MonolithOffset="1105920" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_p_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.6331" SampleStartMod="1000"
+          SampleStart="899" MonolithOffset="1126400" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_pp_rr1.wav"
+          Duplicate="0" SampleStart="1210" SampleStartMod="1000" Normalized="1"
+          NormalizedPeak="29.7786" MonolithOffset="1146880" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_pp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="66.0219" SampleStartMod="1000"
+          SampleStart="405" MonolithOffset="1163264" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="62" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_rimshot_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.38955" SampleStart="1094"
+          MonolithOffset="1175552" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="63" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_rimshot_ff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.62593" SampleStart="672"
+          MonolithOffset="1196032" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_rimshot_f_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.38955" SampleStart="1094"
+          SampleStartMod="3000" MonolithOffset="1220608" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_rimshot_ff_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.62593" SampleStart="672"
+          SampleStartMod="3000" MonolithOffset="1241088" MonolithLength="24576"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_ppp_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="36.11" SampleStartMod="1500"
+          MonolithOffset="1265664" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_ppp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="50.3975" SampleStartMod="1500"
+          MonolithOffset="1282048" MonolithLength="12288" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_ppp_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="36.11" SampleStartMod="1500"
+          MonolithOffset="1294336" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/drum3_marching/snare3_ppp_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="50.3975" SampleStartMod="1500"
+          MonolithOffset="1310720" MonolithLength="12288" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_rim.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.2997" SampleStart="389"
+          SampleStartMod="1500" MonolithOffset="1323008" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_rim.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.2997" SampleStart="389"
+          SampleStartMod="1000" MonolithOffset="1335296" MonolithLength="12288"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="68" LoVel="0" HiVel="62" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_f1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.76427" SampleStart="291"
+          MonolithOffset="1347584" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="68" LoVel="63" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_f2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.05494" SampleStart="99"
+          MonolithOffset="1363968" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="68" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_f1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.76427" SampleStart="291"
+          SampleStartMod="2000" MonolithOffset="1380352" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="68" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_f2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.05494" SampleStart="99"
+          SampleStartMod="2000" MonolithOffset="1396736" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="70" LoVel="0" HiVel="62" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_ff1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.71059" SampleStart="171"
+          Volume="2" MonolithOffset="1413120" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="70" LoVel="63" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_ff2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.10226" SampleStart="206"
+          Volume="2" MonolithOffset="1433600" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="70" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_ff1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.71059" SampleStart="171"
+          Volume="4" SampleStartMod="2000" MonolithOffset="1454080" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="70" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_ff2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.10226" SampleStart="206"
+          Volume="4" SampleStartMod="2000" MonolithOffset="1474560" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="73" LoKey="71" HiKey="71" LoVel="0" HiVel="62" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_mf1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.2959" SampleStart="291"
+          Volume="2" MonolithOffset="1495040" MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="73" LoKey="71" HiKey="71" LoVel="63" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_mf2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.7896" SampleStart="501"
+          Volume="2" MonolithOffset="1503232" MonolithLength="12288" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="71" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_mf1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.2959" SampleStart="291"
+          Volume="2" SampleStartMod="1500" MonolithOffset="1515520" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="71" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Legacy Snares/OldSnare/snare_mf2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.7896" SampleStart="501"
+          Volume="2" SampleStartMod="1500" MonolithOffset="1523712" MonolithLength="12288"
+          SampleRate="44100"/>
+</samplemap>

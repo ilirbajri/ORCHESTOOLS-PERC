@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-TIMPANI1" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="59" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 1/Hit/Timpani3_Hit_v4_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.1712" SampleStartMod="6000"
+          Volume="2" MonolithOffset="0" MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="59" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Timpani 1/Hit/Timpani3_Hit_v4_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.54594" SampleStartMod="6000"
+          Volume="2" MonolithOffset="454656" MonolithLength="462848" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-BONGO" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.7651" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="52" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.47333" SampleStartMod="1500"
+          MonolithOffset="45056" MonolithLength="53248" SampleRate="44100"/>
+</samplemap>

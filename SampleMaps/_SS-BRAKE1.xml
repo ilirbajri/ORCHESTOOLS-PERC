@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-BRAKE1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="63" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Susp_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0816" SampleStartMod="600"
+          MonolithOffset="0" MonolithLength="159744" SampleRate="44100"/>
+</samplemap>

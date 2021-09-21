@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-METALS" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/sleighbell1_shake1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.2107" LoopEnabled="1"
+          LoopStart="58209" LoopEnd="181030" LoopXFade="3000" SampleStartMod="60000"
+          MonolithOffset="0" MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/sleighbell2_hit_loud.wav"
+          Duplicate="0" SampleStart="6727" Normalized="1" NormalizedPeak="8.39593"
+          MonolithOffset="233472" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/sleighbell2_shake1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.5423" LoopEnabled="1"
+          SampleEnd="277746" LoopStart="57921" LoopEnd="194003" LoopXFade="3000"
+          SampleStartMod="60000" MonolithOffset="303104" MonolithLength="278528"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/sleighbell2_hit_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.55051" SampleStart="5724"
+          MonolithOffset="581632" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/sleighbell2_hit_loud.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.39593" SampleStart="2501"
+          SampleStartMod="600" MonolithOffset="638976" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/Sleighbells_Hit_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.2771" SampleStartMod="600"
+          MonolithOffset="708608" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/Sleighbells_Hit_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.9723" SampleStartMod="600"
+          MonolithOffset="819200" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Sleigh Bells/sleighbell2_hit_2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="9.55051" SampleStart="5724"
+          SampleStartMod="1500" MonolithOffset="929792" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree - Legacy/bell_tree_metalscrape1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.4276" SampleStartMod="600"
+          MonolithOffset="987136" MonolithLength="155648" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree - Legacy/bell_tree_scrape1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.71215" SampleStartMod="600"
+          MonolithOffset="1142784" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree - Legacy/bell_tree_scrape2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="32.9759" SampleStartMod="600"
+          MonolithOffset="1249280" MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree - Legacy/bell_tree_scrape3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.3429" SampleStartMod="600"
+          MonolithOffset="1445888" MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit1_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="102.4" SampleStartMod="800"
+          MonolithOffset="1642496" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit1_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.815" SampleStartMod="800"
+          MonolithOffset="1720320" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit1_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.83386" SampleStartMod="800"
+          MonolithOffset="1789952" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit2_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="78.0191" SampleStartMod="800"
+          MonolithOffset="1896448" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit2_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.7502" SampleStartMod="800"
+          MonolithOffset="1966080" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit2_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.41012" SampleStartMod="800"
+          MonolithOffset="2056192" MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit3_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.5418" SampleStartMod="800"
+          MonolithOffset="2150400" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit3_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.13123" SampleStartMod="800"
+          MonolithOffset="2215936" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit3_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.66403" SampleStartMod="800"
+          MonolithOffset="2281472" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="146.286" SampleStartMod="600"
+          MonolithOffset="2367488" MonolithLength="204800" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_3_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="65.9316" SampleStartMod="600"
+          MonolithOffset="2572288" MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_4_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="64.3772" SampleStartMod="600"
+          MonolithOffset="2822144" MonolithLength="229376" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_6_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="33.7119" SampleStartMod="600"
+          MonolithOffset="3051520" MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_10_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="129.518" SampleStartMod="600"
+          MonolithOffset="3313664" MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Anvil/Anvil_Hit1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.815" SampleStartMod="800"
+          MonolithOffset="3567616" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Bells, Nepalese/HB_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1442" SampleStartMod="600"
+          MonolithOffset="3637248" MonolithLength="135168" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Bells, Nepalese/HB_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.47723" SampleStartMod="600"
+          MonolithOffset="3772416" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Bells, Nepalese/HB_3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="45.5136" Volume="-4"
+          SampleStartMod="600" MonolithOffset="3829760" MonolithLength="102400"
+          SampleRate="44100"/>
+</samplemap>

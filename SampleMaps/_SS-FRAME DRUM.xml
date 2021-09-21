@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-FRAME DRUM" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.35629" SampleStartMod="3000"
+          Volume="2" MonolithOffset="0" MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="52" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.49675" SampleStartMod="3000"
+          Volume="2" MonolithOffset="159744" MonolithLength="147456" SampleRate="44100"/>
+</samplemap>

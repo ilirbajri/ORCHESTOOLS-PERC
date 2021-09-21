@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-COWBELL" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="78.959" SampleStart="357"
+          SampleStartMod="600" MonolithOffset="0" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.3024" SampleStart="343"
+          SampleStartMod="600" MonolithOffset="49152" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.2915" SampleStart="364"
+          SampleStartMod="600" MonolithOffset="102400" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_Low_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="61.3633" SampleStart="385"
+          SampleStartMod="800" MonolithOffset="155648" MonolithLength="90112"
+          SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_Low_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.82" SampleStart="285"
+          SampleStartMod="800" MonolithOffset="245760" MonolithLength="110592"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="65" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_f_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.7452" SampleStart="1354"
+          SampleStartMod="600" MonolithOffset="356352" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="64" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_mf1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.5484" SampleStart="704"
+          SampleStartMod="600" MonolithOffset="434176" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="65" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell2_mf_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.1317" SampleStart="1250"
+          SampleStartMod="800" MonolithOffset="503808" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="64" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell2_mp_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.556" SampleStart="1794"
+          SampleStartMod="800" MonolithOffset="561152" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell3_f_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.21437" SampleStart="607"
+          SampleStartMod="1000" MonolithOffset="630784" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell3_f_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.5642" SampleStart="479"
+          SampleStartMod="1000" MonolithOffset="684032" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell3_ff_3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.27437" SampleStart="1373"
+          SampleStartMod="1000" MonolithOffset="737280" MonolithLength="81920"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="78.959" SampleStart="357"
+          SampleStartMod="600" MonolithOffset="819200" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.3024" SampleStart="343"
+          SampleStartMod="600" MonolithOffset="868352" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.2915" SampleStart="364"
+          SampleStartMod="600" MonolithOffset="921600" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_Low_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="61.3633" SampleStart="385"
+          SampleStartMod="800" MonolithOffset="974848" MonolithLength="90112"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_Low_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.82" SampleStart="285"
+          SampleStartMod="800" MonolithOffset="1064960" MonolithLength="110592"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="78.959" SampleStart="357"
+          SampleStartMod="600" MonolithOffset="1175552" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.3024" SampleStart="343"
+          SampleStartMod="600" MonolithOffset="1224704" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Agogo_High_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.2915" SampleStart="364"
+          SampleStartMod="600" MonolithOffset="1277952" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="65" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_f_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.7452" SampleStart="1354"
+          SampleStartMod="600" MonolithOffset="1331200" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="64" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_mf1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.5484" SampleStart="704"
+          SampleStartMod="600" MonolithOffset="1409024" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="65" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell2_mf_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.1317" SampleStart="1250"
+          SampleStartMod="800" MonolithOffset="1478656" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="64" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell2_mp_2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.556" SampleStart="1794"
+          SampleStartMod="800" MonolithOffset="1536000" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="65" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_f_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.7452" SampleStart="1354"
+          SampleStartMod="600" MonolithOffset="1605632" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="64" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_mf1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.5484" SampleStart="704"
+          SampleStartMod="600" MonolithOffset="1683456" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="65" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_f_1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.7452" SampleStart="1354"
+          SampleStartMod="600" MonolithOffset="1753088" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="64" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Agogo Bells/Legacy/agogoBell_mf1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.5484" SampleStart="704"
+          SampleStartMod="600" MonolithOffset="1830912" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Normal_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.33095" SampleStartMod="1000"
+          MonolithOffset="1900544" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Normal_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.67603" SampleStartMod="1000"
+          MonolithOffset="1978368" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Muted_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.55893" SampleStartMod="500"
+          MonolithOffset="2060288" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Muted_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.99622" SampleStartMod="500"
+          MonolithOffset="2105344" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Normal_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.6806" SampleStartMod="1000"
+          MonolithOffset="2162688" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Normal_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.68551" SampleStartMod="1000"
+          MonolithOffset="2207744" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Muted_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.92477" SampleStartMod="500"
+          MonolithOffset="2252800" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Muted_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.11243" SampleStartMod="500"
+          MonolithOffset="2301952" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Double_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.54417" SampleStartMod="1000"
+          MonolithOffset="2351104" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Double_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.82582" SampleStartMod="1000"
+          MonolithOffset="2404352" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Double_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.54417" SampleStartMod="1000"
+          MonolithOffset="2457600" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Double_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.82582" SampleStartMod="1000"
+          MonolithOffset="2510848" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Double_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.54417" SampleStartMod="1000"
+          MonolithOffset="2564096" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell2_Double_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.82582" SampleStartMod="1000"
+          MonolithOffset="2617344" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Hit_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.4995" SampleStartMod="1000"
+          MonolithOffset="2670592" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Hit_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.33579" SampleStartMod="1000"
+          MonolithOffset="2723840" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Hit_v4_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.51437" SampleStartMod="1000"
+          MonolithOffset="2777088" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cowbells/Cowbell1_Muted_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.11243" SampleStartMod="500"
+          MonolithOffset="2826240" MonolithLength="49152" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-DARABUKA" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="48" HiKey="52" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_1_hit_vl1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.46589" SampleStartMod="3000"
+          MonolithOffset="0" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="52" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_1_hit_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.55672" SampleStartMod="3000"
+          MonolithOffset="49152" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="52" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_1_hit_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.18988" SampleStartMod="3000"
+          MonolithOffset="102400" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="52" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_1_hit_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.00003" SampleStartMod="3000"
+          MonolithOffset="159744" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_2_hit_vl1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.84304" SampleStartMod="2000"
+          MonolithOffset="217088" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="57" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_2_hit_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.99741" SampleStartMod="2000"
+          MonolithOffset="245760" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="57" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_2_hit_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.84931" SampleStartMod="2000"
+          MonolithOffset="278528" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="57" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_2_hit_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.48827" SampleStartMod="2000"
+          MonolithOffset="307200" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="62" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_3_hit_vl1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.9313" SampleStartMod="2000"
+          MonolithOffset="335872" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="62" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_3_hit_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.6488" SampleStartMod="2000"
+          MonolithOffset="360448" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="62" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_3_hit_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.68428" SampleStartMod="2000"
+          MonolithOffset="385024" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="62" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_3_hit_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.68181" SampleStartMod="2000"
+          MonolithOffset="409600" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="67" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_4_hit_vl1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.00715" SampleStartMod="2000"
+          MonolithOffset="434176" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="67" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_4_hit_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.6762" SampleStartMod="2000"
+          MonolithOffset="462848" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="67" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_4_hit_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.74349" SampleStartMod="2000"
+          MonolithOffset="491520" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="67" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_4_hit_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.11193" SampleStartMod="2000"
+          MonolithOffset="524288" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_5_hit_vl1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.2413" MonolithOffset="552960"
+          MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_5_hit_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.9562" MonolithOffset="577536"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_5_hit_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.9188" MonolithOffset="606208"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="72" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Darbuka/Darbuka_5_hit_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.9629" MonolithOffset="634880"
+          MonolithLength="28672" SampleRate="44100"/>
+</samplemap>

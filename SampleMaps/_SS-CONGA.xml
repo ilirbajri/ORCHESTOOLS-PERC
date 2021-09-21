@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-CONGA" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="55" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.47973" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Conga/Tumba_HitFM_v4_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.9098" SampleStartMod="1500"
+          MonolithOffset="40960" MonolithLength="40960" SampleRate="44100"/>
+</samplemap>

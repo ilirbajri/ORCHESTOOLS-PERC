@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="1NST-MARIMBA" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_B2_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.5368" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="83" LoKey="80" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_B4_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.53831" SampleStartMod="1500"
+          MonolithOffset="266240" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="48" LoKey="43" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_C2_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.46889" SampleStartMod="1500"
+          MonolithOffset="385024" MonolithLength="372736" SampleRate="44100"/>
+  <sample Root="72" LoKey="67" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_C4_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.90079" SampleStartMod="1500"
+          MonolithOffset="757760" MonolithLength="172032" SampleRate="44100"/>
+  <sample Root="96" LoKey="91" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_C6_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.70239" SampleStartMod="1500"
+          MonolithOffset="929792" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="41" LoKey="0" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_F1_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.0853" SampleStartMod="1500"
+          MonolithOffset="1011712" MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="65" LoKey="60" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_F3_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.6605" SampleStartMod="1500"
+          MonolithOffset="1175552" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="89" LoKey="84" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_F5_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.1844" SampleStartMod="1500"
+          MonolithOffset="1441792" MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="55" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_G2_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.1207" SampleStartMod="1500"
+          MonolithOffset="1536000" MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="79" LoKey="74" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Marimba/Marimba_hit_Outrigger_G4_loud_01.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.54604" SampleStartMod="1500"
+          MonolithOffset="1847296" MonolithLength="135168" SampleRate="44100"/>
+</samplemap>

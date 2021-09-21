@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="ORC-GONG" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_f.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.96168" SampleStartMod="1000"
+          SampleStart="1509" MonolithOffset="0" MonolithLength="1359872"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_fff.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.00821" SampleStartMod="1000"
+          SampleStart="1076" MonolithOffset="1359872" MonolithLength="1208320"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_mf.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.5258" SampleStartMod="1000"
+          SampleStart="1176" MonolithOffset="2568192" MonolithLength="1503232"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.2228" SampleStartMod="1000"
+          SampleStart="367" MonolithOffset="4071424" MonolithLength="1298432"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_2_f.wav"
+          Duplicate="0" SampleStart="968" Normalized="1" NormalizedPeak="9.73211"
+          SampleStartMod="10000" MonolithOffset="5369856" MonolithLength="1036288"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_2_mp.wav"
+          Duplicate="0" SampleStart="561" Normalized="1" NormalizedPeak="20.7655"
+          SampleStartMod="10000" MonolithOffset="6406144" MonolithLength="860160"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_p.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="21.2228" SampleStartMod="150000"
+          MonolithOffset="7266304" MonolithLength="1298432" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_mf.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.5258" SampleStartMod="150000"
+          MonolithOffset="8564736" MonolithLength="1503232" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_f.wav"
+          Duplicate="1" SampleStartMod="150000" Normalized="1" NormalizedPeak="2.96168"
+          MonolithOffset="10067968" MonolithLength="1359872" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_fff.wav"
+          Duplicate="1" SampleStartMod="150000" Normalized="1" NormalizedPeak="2.00821"
+          MonolithOffset="11427840" MonolithLength="1208320" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_scrape_mf.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.0809" SampleStartMod="30000"
+          MonolithOffset="12636160" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_scrape_mf.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="22.0809" SampleStartMod="30000"
+          MonolithOffset="13062144" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Gong 1/gong_scrape_mf.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="22.0809" SampleStartMod="30000"
+          MonolithOffset="13488128" MonolithLength="425984" SampleRate="44100"/>
+</samplemap>

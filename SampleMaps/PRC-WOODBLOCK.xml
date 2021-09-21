@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-WOODBLOCK" RRGroupAmount="3" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_pp_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.5588" SampleStartMod="1000"
+          MonolithOffset="0" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_pp_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.6069" SampleStartMod="1000"
+          MonolithOffset="16384" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_pp_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.1844" SampleStartMod="1000"
+          MonolithOffset="36864" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.54278" SampleStartMod="1000"
+          MonolithOffset="57344" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="60" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_f_rr2.wav"
+          Duplicate="0" SampleStart="491" Normalized="1" NormalizedPeak="2.65198"
+          SampleStartMod="1000" MonolithOffset="143360" MonolithLength="90112"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="60" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_ff.wav"
+          Duplicate="0" SampleStart="738" Normalized="1" NormalizedPeak="1.68281"
+          SampleStartMod="1500" MonolithOffset="233472" MonolithLength="36864"
+          SampleRate="44100"/>
+</samplemap>

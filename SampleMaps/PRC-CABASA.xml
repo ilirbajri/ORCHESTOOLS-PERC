@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-CABASA" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.285" MonolithOffset="0"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.90193" MonolithOffset="36864"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="36.7354" SampleStartMod="2000"
+          MonolithOffset="77824" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.0009" SampleStartMod="2000"
+          MonolithOffset="126976" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.9227" SampleStartMod="3000"
+          MonolithOffset="172032" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.691" SampleStartMod="3000"
+          MonolithOffset="217088" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.285" MonolithOffset="262144"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.90193" MonolithOffset="299008"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.285" MonolithOffset="339968"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.90193" MonolithOffset="376832"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.285" MonolithOffset="417792"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.90193" MonolithOffset="454656"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.285" MonolithOffset="495616"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Hit_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.90193" MonolithOffset="532480"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="36.7354" SampleStartMod="2000"
+          MonolithOffset="573440" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.0009" SampleStartMod="2000"
+          MonolithOffset="622592" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="36.7354" SampleStartMod="2000"
+          MonolithOffset="667648" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.0009" SampleStartMod="2000"
+          MonolithOffset="716800" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="36.7354" SampleStartMod="2000"
+          MonolithOffset="761856" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.0009" SampleStartMod="2000"
+          MonolithOffset="811008" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.9227" SampleStartMod="3000"
+          MonolithOffset="856064" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.691" SampleStartMod="3000"
+          MonolithOffset="901120" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.9227" SampleStartMod="3000"
+          MonolithOffset="946176" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cabasa/Cabasa1_Rub_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.691" SampleStartMod="3000"
+          MonolithOffset="991232" MonolithLength="45056" SampleRate="44100"/>
+</samplemap>

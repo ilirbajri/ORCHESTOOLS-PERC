@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="DRM-CYMBAL 1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_bow_7.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.1546" MonolithOffset="0"
+          MonolithLength="385024" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_bow_13.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="27.4669" MonolithOffset="385024"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_bow_20.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.278" MonolithOffset="749568"
+          MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_bow_17.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.43506" SampleStartMod="0"
+          MonolithOffset="1323008" MonolithLength="700416" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_cresc_1.5s.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.6027" SampleStartMod="45000"
+          MonolithOffset="2023424" MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_cresc_2s.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.22361" SampleStartMod="45000"
+          MonolithOffset="2531328" MonolithLength="462848" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_cresc_4s.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.08928" MonolithOffset="2994176"
+          MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_roll_f1_nloop.wav"
+          Duplicate="0" SampleStartMod="279252" Normalized="1" NormalizedPeak="6.01137"
+          LoopEnabled="1" LoopEnd="722413" LoopStart="327817" LoopXFade="15000"
+          SampleEnd="756813" MonolithOffset="3567616" MonolithLength="1613824"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_roll_ff2_nloop.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.765" LoopEnabled="1"
+          LoopStart="339239" LoopEnd="917359" LoopXFade="15000" SampleStartMod="309555"
+          MonolithOffset="5181440" MonolithLength="1126400" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_pp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="79.534" SampleStartMod="6000"
+          MonolithOffset="6307840" MonolithLength="462848" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_mp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.2138" SampleStartMod="6000"
+          MonolithOffset="6770688" MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_f1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.97629" SampleStartMod="25000"
+          MonolithOffset="7266304" MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_fff1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.31691" SampleStartMod="6000"
+          MonolithOffset="7778304" MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="79.534" SampleStartMod="6000"
+          MonolithOffset="8351744" MonolithLength="462848" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_mp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.2138" SampleStartMod="6000"
+          MonolithOffset="8814592" MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_f1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.97629" SampleStartMod="6000"
+          MonolithOffset="9310208" MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_fff1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.31691" SampleStartMod="30000"
+          MonolithOffset="9822208" MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="79.534" SampleStartMod="6000"
+          MonolithOffset="10395648" MonolithLength="462848" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_mp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.2138" SampleStartMod="6000"
+          MonolithOffset="10858496" MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_f1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.97629" SampleStartMod="6000"
+          MonolithOffset="11354112" MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_fff1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.31691" SampleStartMod="6000"
+          MonolithOffset="11866112" MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_f1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.97629" SampleStartMod="6000"
+          MonolithOffset="12439552" MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_f1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.97629" SampleStartMod="25000"
+          MonolithOffset="12951552" MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_fff1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.31691" SampleStartMod="6000"
+          MonolithOffset="13463552" MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_fff1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.31691" SampleStartMod="30000"
+          MonolithOffset="14036992" MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_fff1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.31691" SampleStartMod="30000"
+          MonolithOffset="14610432" MonolithLength="573440" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_bell_mf1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.5327" SampleStartMod="3000"
+          MonolithOffset="15183872" MonolithLength="323584" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_bell_fff1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.78514" SampleStartMod="3000"
+          MonolithOffset="15507456" MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_stick_mp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.018" SampleStartMod="1500"
+          MonolithOffset="15695872" MonolithLength="352256" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_stick_f1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.18498" SampleStartMod="3000"
+          MonolithOffset="16048128" MonolithLength="307200" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_bell_pp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.873" SampleStartMod="1500"
+          MonolithOffset="16355328" MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_stick_pp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="49.2012" SampleStartMod="3000"
+          MonolithOffset="16683008" MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_bell_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.873" SampleStartMod="3000"
+          MonolithOffset="16973824" MonolithLength="327680" SampleRate="44100"/>
+</samplemap>

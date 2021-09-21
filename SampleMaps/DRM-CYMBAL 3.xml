@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="DRM-CYMBAL 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.42656" SampleStartMod="3000"
+          MonolithOffset="0" MonolithLength="589824" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.82338" SampleStartMod="3000"
+          MonolithOffset="589824" MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.07854" SampleStartMod="3000"
+          MonolithOffset="966656" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.20018" SampleStartMod="3000"
+          MonolithOffset="1282048" MonolithLength="413696" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.48844" SampleStartMod="1000"
+          MonolithOffset="1695744" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.40076" SampleStartMod="1000"
+          MonolithOffset="1802240" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.42656" SampleStartMod="3000"
+          MonolithOffset="1888256" MonolithLength="589824" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.82338" SampleStartMod="3000"
+          MonolithOffset="2478080" MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.07854" SampleStartMod="3000"
+          MonolithOffset="2854912" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.20018" SampleStartMod="3000"
+          MonolithOffset="3170304" MonolithLength="413696" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.42656" SampleStartMod="3000"
+          MonolithOffset="3584000" MonolithLength="589824" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.82338" SampleStartMod="3000"
+          MonolithOffset="4173824" MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.07854" SampleStartMod="3000"
+          MonolithOffset="4550656" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.20018" SampleStartMod="3000"
+          MonolithOffset="4866048" MonolithLength="413696" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.05713" SampleStartMod="3000"
+          MonolithOffset="5279744" MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.51725" SampleStartMod="3000"
+          MonolithOffset="5926912" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.6269" SampleStartMod="3000"
+          MonolithOffset="6352896" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.71375" SampleStartMod="3000"
+          MonolithOffset="6709248" MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff3.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.05713" SampleStartMod="3000"
+          MonolithOffset="7090176" MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.51725" SampleStartMod="3000"
+          MonolithOffset="7737344" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.6269" SampleStartMod="3000"
+          MonolithOffset="8163328" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.71375" SampleStartMod="3000"
+          MonolithOffset="8519680" MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff3.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.05713" SampleStartMod="3000"
+          MonolithOffset="8900608" MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.51725" SampleStartMod="3000"
+          MonolithOffset="9547776" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.6269" SampleStartMod="3000"
+          MonolithOffset="9973760" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.71375" SampleStartMod="3000"
+          MonolithOffset="10330112" MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.40076" SampleStartMod="1000"
+          MonolithOffset="10711040" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.40076" SampleStartMod="1000"
+          MonolithOffset="10797056" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.48844" SampleStartMod="1000"
+          MonolithOffset="10883072" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.42656" SampleStartMod="3000"
+          MonolithOffset="10989568" MonolithLength="589824" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.82338" SampleStartMod="3000"
+          MonolithOffset="11579392" MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.07854" SampleStartMod="3000"
+          MonolithOffset="11956224" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.20018" SampleStartMod="3000"
+          MonolithOffset="12271616" MonolithLength="413696" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.48844" SampleStartMod="1000"
+          MonolithOffset="12685312" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.40076" SampleStartMod="1000"
+          MonolithOffset="12791808" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_ff3.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.05713" SampleStartMod="3000"
+          MonolithOffset="12877824" MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mf2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.51725" SampleStartMod="3000"
+          MonolithOffset="13524992" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="30" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_mp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.6269" SampleStartMod="3000"
+          MonolithOffset="13950976" MonolithLength="356352" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_pp2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.71375" SampleStartMod="3000"
+          MonolithOffset="14307328" MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.40076" SampleStartMod="1000"
+          MonolithOffset="14688256" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.40076" SampleStartMod="1000"
+          MonolithOffset="14774272" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Clash Cymbals 1/cymbal_crash1_short1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.48844" SampleStartMod="1000"
+          MonolithOffset="14860288" MonolithLength="106496" SampleRate="44100"/>
+</samplemap>

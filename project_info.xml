@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="OT PERC"/>
+  <Version value="1.0.1"/>
+  <Description value="Orchestools | Perc"/>
+  <BundleIdentifier value="com.myCompany.product"/>
+  <PluginCode value="Abcd"/>
+  <EmbedAudioFiles value="Yes"/>
+  <EmbedImageFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="No"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value="ENABLE_ALL_PEAK_METERS=1"/>
+  <ExtraDefinitionsOSX value="ENABLE_ALL_PEAK_METERS=1"/>
+  <ExtraDefinitionsIOS value="ENABLE_ALL_PEAK_METERS=1"/>
+  <ExtraDefinitionsLinux value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <SupportMonoFX value="No"/>
+  <EnableMidiInputFX value="No"/>
+  <VST3Support value="1"/>
+  <UseRawFrontend value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value=""/>
+  <LinkExpansionsToProject value="No"/>
+</ProjectSettings>

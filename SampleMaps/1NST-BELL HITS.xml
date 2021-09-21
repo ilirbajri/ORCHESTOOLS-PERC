@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="1NST-BELL HITS" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="82" LoKey="81" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Individual/BellTree_Hit_A#5_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="76.74" SampleStartMod="3000"
+          MonolithOffset="0" MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="72" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Individual/BellTree_Hit_C5_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="91.0222" SampleStartMod="3000"
+          SampleStart="418" MonolithOffset="180224" MonolithLength="262144"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Individual/BellTree_Hit_D5_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="55.445" SampleStartMod="3000"
+          MonolithOffset="442368" MonolithLength="208896" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Individual/BellTree_Hit_E5_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="125.069" SampleStartMod="3000"
+          MonolithOffset="651264" MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Individual/BellTree_Hit_F#5_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="168.041" SampleStartMod="3000"
+          MonolithOffset="811008" MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Individual/BellTree_Hit_G#5_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="57.2867" SampleStartMod="3000"
+          MonolithOffset="962560" MonolithLength="217088" SampleRate="44100"/>
+</samplemap>

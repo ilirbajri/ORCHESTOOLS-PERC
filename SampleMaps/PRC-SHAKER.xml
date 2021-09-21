@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-SHAKER" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Hit_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.56061" SampleStartMod="600"
+          MonolithOffset="0" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Hit_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.77207" SampleStartMod="800"
+          MonolithOffset="61440" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Shake1D_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.0156" SampleStart="2853"
+          SampleStartMod="1500" MonolithOffset="122880" MonolithLength="65536"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Shake1D_rr3_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.534" SampleStart="1916"
+          SampleStartMod="800" MonolithOffset="188416" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Shake1U_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.7494" SampleStart="3994"
+          SampleStartMod="600" MonolithOffset="245760" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Shake1U_rr4_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.7041" SampleStart="3847"
+          SampleStartMod="800" MonolithOffset="315392" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Hit_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.56061" SampleStartMod="600"
+          MonolithOffset="372736" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Large/LShaker_Hit_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.77207" SampleStartMod="800"
+          MonolithOffset="434176" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_Shaker_Roll_Fast_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0816" LoopEnabled="1"
+          LoopXFade="1500" SampleStartMod="30000" LoopEnd="81535" LoopStart="27367"
+          Volume="-2" MonolithOffset="495616" MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_Shaker_Roll_Fast_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.98492" LoopEnabled="1"
+          LoopStart="29963" LoopEnd="126917" LoopXFade="1500" SampleStartMod="30000"
+          Volume="-2" MonolithOffset="610304" MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_Shaker_Slap_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.58" Volume="-4"
+          SampleStartMod="500" MonolithOffset="806912" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_Shaker_Slap_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.5235" Volume="-4"
+          SampleStartMod="500" MonolithOffset="839680" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerDouble_Down_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.6935" Volume="-4"
+          SampleStart="1043" SampleStartMod="500" MonolithOffset="872448"
+          MonolithLength="12288" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerDouble_Down_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.129" Volume="-4"
+          SampleStart="1068" SampleStartMod="500" MonolithOffset="884736"
+          MonolithLength="12288" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerDouble_Up_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="63.381" Volume="-4"
+          SampleStartMod="500" MonolithOffset="897024" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerDouble_Up_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="57.6901" Volume="-4"
+          SampleStartMod="500" MonolithOffset="905216" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Down_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.9726" Volume="-4"
+          SampleStartMod="500" MonolithOffset="913408" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Down_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.4926" Volume="-4"
+          SampleStartMod="500" MonolithOffset="921600" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Up_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.0648" Volume="-4"
+          SampleStartMod="500" MonolithOffset="929792" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Up_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.2222" Volume="-4"
+          SampleStartMod="500" MonolithOffset="937984" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerLowFaster_Down_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.9726" Volume="-4"
+          SampleStart="1641" SampleStartMod="500" MonolithOffset="946176"
+          MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerLowFaster_Down_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.7998" Volume="-4"
+          SampleStart="1492" SampleStartMod="500" MonolithOffset="954368"
+          MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerLowFaster_Up_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.3336" Volume="-4"
+          SampleStart="349" SampleStartMod="500" MonolithOffset="962560"
+          MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerLowFaster_Up_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.4607" Volume="-4"
+          SampleStart="608" SampleStartMod="500" MonolithOffset="970752"
+          MonolithLength="4096" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Down_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.9726" Volume="-4"
+          SampleStartMod="500" MonolithOffset="974848" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Down_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="34.4926" Volume="-4"
+          SampleStartMod="500" MonolithOffset="983040" MonolithLength="8192"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Down_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.9726" Volume="-4"
+          SampleStart="1553" SampleStartMod="500" MonolithOffset="991232"
+          MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Down_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="34.4926" Volume="-4"
+          SampleStart="1460" SampleStartMod="500" MonolithOffset="999424"
+          MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker - Legacy/shake1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.08344" SampleStartMod="500"
+          MonolithOffset="1007616" MonolithLength="8192" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Shaker - Legacy/shake2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.85659" SampleStart="115"
+          SampleStartMod="500" MonolithOffset="1015808" MonolithLength="12288"
+          SampleRate="44100"/>
+</samplemap>

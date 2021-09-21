@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-BASSDRUM2" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.57801" SampleStartMod="6000"
+          MonolithOffset="0" MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="52" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bass Drum 2/bassdrum_hit_mp1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.19815" SampleStartMod="6000"
+          MonolithOffset="425984" MonolithLength="438272" SampleRate="44100"/>
+</samplemap>

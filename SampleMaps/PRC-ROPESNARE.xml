@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-ROPESNARE" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="65.4389" SampleStartMod="6000"
+          MonolithOffset="0" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.0893" SampleStartMod="6000"
+          MonolithOffset="61440" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.64849" SampleStartMod="6000"
+          Volume="4" MonolithOffset="159744" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl1_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="67.7769" SampleStartMod="6000"
+          MonolithOffset="245760" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.2878" SampleStartMod="6000"
+          MonolithOffset="327680" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="48" LoKey="52" HiKey="53" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.9526" SampleStartMod="6000"
+          Volume="4" MonolithOffset="425984" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl1_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="65.4389" SampleStartMod="6000"
+          MonolithOffset="516096" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.0893" SampleStartMod="6000"
+          MonolithOffset="577536" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl3_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.64849" SampleStartMod="6000"
+          Volume="4" MonolithOffset="675840" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl1_rr3.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="67.7769" SampleStartMod="6000"
+          MonolithOffset="761856" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl2_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.2878" SampleStartMod="6000"
+          MonolithOffset="843776" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl3_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.9526" SampleStartMod="6000"
+          Volume="4" MonolithOffset="942080" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl1_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="65.4389" SampleStartMod="6000"
+          MonolithOffset="1032192" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="13.0893" SampleStartMod="6000"
+          MonolithOffset="1093632" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl3_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.64849" SampleStartMod="6000"
+          Volume="4" MonolithOffset="1191936" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl1_rr3.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="67.7769" SampleStartMod="6000"
+          MonolithOffset="1277952" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl2_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="20.2878" SampleStartMod="6000"
+          MonolithOffset="1359872" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="48" LoKey="50" HiKey="50" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl3_rr2.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.9526" SampleStartMod="6000"
+          Volume="4" MonolithOffset="1458176" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_sn_Main_vl1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="71.1128" SampleStartMod="6000"
+          MonolithOffset="1548288" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_sn_Main_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.6533" SampleStartMod="6000"
+          MonolithOffset="1667072" MonolithLength="122880" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_sn_Main_vl3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.25757" SampleStartMod="6000"
+          Volume="4" MonolithOffset="1789952" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_sn_Main_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="64.6003" SampleStartMod="6000"
+          MonolithOffset="1888256" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_sn_Main_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.035" SampleStartMod="6000"
+          MonolithOffset="1994752" MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_sn_Main_vl3_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.89292" SampleStartMod="6000"
+          Volume="4" MonolithOffset="2109440" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="59" LoVel="0" HiVel="39" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_tsn_Main_vl1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="87.5473" SampleStartMod="6000"
+          MonolithOffset="2220032" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="59" LoVel="40" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_tsn_Main_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.857" SampleStartMod="6000"
+          MonolithOffset="2293760" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="59" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_tsn_Main_vl3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.73079" SampleStartMod="6000"
+          Volume="2" MonolithOffset="2367488" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="59" LoVel="0" HiVel="39" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_tsn_Main_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="103.182" SampleStartMod="6000"
+          MonolithOffset="2457600" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="59" LoVel="40" HiVel="79" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_tsn_Main_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.6742" SampleStartMod="6000"
+          MonolithOffset="2531328" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="59" LoVel="80" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_tsn_Main_vl3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.52967" SampleStartMod="6000"
+          Volume="2" MonolithOffset="2609152" MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/RopeSnare_sidestick_Main_vl2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.44512" SampleStartMod="1500"
+          MonolithOffset="2703360" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/RopeSnare_sidestick_Main_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.0147" SampleStartMod="1500"
+          MonolithOffset="2764800" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/RopeSnare_stick_Main_vl1_rr2.wav"
+          Duplicate="0" SampleStartMod="1500" Normalized="1" NormalizedPeak="14.1778"
+          MonolithOffset="2822144" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/RopeSnare_stick_Main_vl1_rr1.wav"
+          Duplicate="0" SampleStartMod="1500" Normalized="1" NormalizedPeak="33.6392"
+          MonolithOffset="2867200" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="0" HiVel="29" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl1_rr1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="116.841"
+          MonolithOffset="2916352" MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="30" HiVel="69" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl2_rr1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="28.1934"
+          MonolithOffset="3010560" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="70" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl3_rr1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="6.6728"
+          MonolithOffset="3096576" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl4_rr1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="3.75295"
+          MonolithOffset="3207168" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="0" HiVel="29" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="104.206" SampleStartMod="6000"
+          MonolithOffset="3313664" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="30" HiVel="69" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.6795" SampleStartMod="6000"
+          MonolithOffset="3399680" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="70" HiVel="99" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl3_rr3.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.98817" SampleStartMod="6000"
+          Volume="2" MonolithOffset="3489792" MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="71" LoVel="100" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl4_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.83268" SampleStartMod="6000"
+          Volume="4" MonolithOffset="3608576" MonolithLength="98304" SampleRate="44100"/>
+</samplemap>

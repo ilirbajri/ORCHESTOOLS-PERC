@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-METAL2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="60" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Bells, Nepalese/HB_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1442" SampleStartMod="9000"
+          MonolithOffset="0" MonolithLength="135168" SampleRate="44100"/>
+</samplemap>

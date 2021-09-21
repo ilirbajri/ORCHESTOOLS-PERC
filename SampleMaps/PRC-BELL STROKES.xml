@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-BELL STROKES" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="146.286" MonolithOffset="0"
+          MonolithLength="204800" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_3_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="65.9316" MonolithOffset="204800"
+          MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_4_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="64.3772" MonolithOffset="454656"
+          MonolithLength="229376" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_6_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="33.7119" MonolithOffset="684032"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Bell Tree/Stroke/BellTree_Stroke_10_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="129.518" MonolithOffset="946176"
+          MonolithLength="253952" SampleRate="44100"/>
+</samplemap>

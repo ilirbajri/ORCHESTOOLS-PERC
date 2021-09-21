@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-WOOD" RRGroupAmount="3" MicPositions=";" SaveMode="2">
+  <sample Root="84" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_f_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.54278" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="84" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_f_rr2.wav"
+          Duplicate="0" SampleStart="491" Normalized="1" NormalizedPeak="2.65198"
+          MonolithOffset="86016" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="84" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Woodblock/wood_click_ff.wav"
+          Duplicate="0" SampleStart="738" Normalized="1" NormalizedPeak="1.68281"
+          MonolithOffset="176128" MonolithLength="36864" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="1NST-XYLOPHONE" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="60" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_C4_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.55042" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="72" LoKey="68" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_C5_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.3056" SampleStartMod="1500"
+          MonolithOffset="151552" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="84" LoKey="80" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_C6_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.84732" SampleStartMod="1500"
+          MonolithOffset="237568" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="96" LoKey="92" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_C7_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.68366" SampleStartMod="1500"
+          MonolithOffset="303104" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_G3_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.73206" SampleStartMod="1500"
+          MonolithOffset="356352" MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="67" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_G4_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.82316" SampleStartMod="1500"
+          MonolithOffset="516096" MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="79" LoKey="74" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_G5_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.87291" SampleStartMod="1500"
+          MonolithOffset="630784" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="91" LoKey="86" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Percussion/Xylo/Xylo_Medium_G6_ff_01_far.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.38083" SampleStartMod="1500"
+          MonolithOffset="704512" MonolithLength="61440" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-ROPESNARE" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl4_rr1.wav"
+          Duplicate="0" SampleStartMod="6000" Normalized="1" NormalizedPeak="3.75295"
+          MonolithOffset="0" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="48" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Snare Drum, Rope Tension/Hi/RopeSnare_hi_sn_Main_vl4_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.83268" SampleStartMod="6000"
+          Volume="4" MonolithOffset="106496" MonolithLength="98304" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="1NST-HAND CHIMES" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_A#3_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="14000"
+          Volume="-5" MonolithOffset="0" MonolithLength="368640" SampleRate="44100"/>
+  <sample Root="82" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_A#5_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="368640" MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_A4_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62342" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="548864" MonolithLength="393216" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_C4_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="942080" MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_C5_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="1306624" MonolithLength="315392"
+          SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_C6_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="1622016" MonolithLength="159744"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="0" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_D3_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62342" SampleStartMod="16000"
+          Volume="-5" MonolithOffset="1781760" MonolithLength="499712"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_D4_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62342" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="2281472" MonolithLength="434176"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_D5_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="2715648" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_E3_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="16000"
+          Volume="-5" MonolithOffset="3117056" MonolithLength="720896"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_E4_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62342" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="3837952" MonolithLength="307200"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_E5_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="4145152" MonolithLength="229376"
+          SampleRate="44100"/>
+  <sample Root="54" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_F#3_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62342" SampleStartMod="14000"
+          Volume="-5" MonolithOffset="4374528" MonolithLength="618496"
+          SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_F#4_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="4993024" MonolithLength="204800"
+          SampleRate="44100"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_F#5_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="5197824" MonolithLength="258048"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_G#3_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="14000"
+          Volume="-5" MonolithOffset="5455872" MonolithLength="524288"
+          SampleRate="44100"/>
+  <sample Root="68" LoKey="67" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_G#4_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="5980160" MonolithLength="409600"
+          SampleRate="44100"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Hand Chimes/sus_G#5_r01_main.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.62341" SampleStartMod="12000"
+          Volume="-5" MonolithOffset="6389760" MonolithLength="217088"
+          SampleRate="44100"/>
+</samplemap>

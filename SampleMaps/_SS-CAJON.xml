@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="_SS-CAJON" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="62" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07355" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="62" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.25963" SampleStartMod="1500"
+          MonolithOffset="57344" MonolithLength="61440" SampleRate="44100"/>
+</samplemap>

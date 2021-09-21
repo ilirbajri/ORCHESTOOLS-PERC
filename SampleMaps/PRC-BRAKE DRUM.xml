@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-BRAKE DRUM" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Hammer_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.2915" SampleStartMod="600"
+          MonolithOffset="0" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Hammer_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.73158" SampleStartMod="600"
+          MonolithOffset="77824" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Hammer_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.67491" SampleStartMod="600"
+          MonolithOffset="151552" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Susp_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0816" SampleStartMod="600"
+          MonolithOffset="229376" MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Susp_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.14436" SampleStartMod="600"
+          MonolithOffset="389120" MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_YarnM_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.2374" SampleStartMod="600"
+          Volume="-4" MonolithOffset="540672" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_YarnM_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.72702" SampleStartMod="600"
+          Volume="-4" MonolithOffset="610304" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer1_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.2736" SampleStartMod="600"
+          MonolithOffset="684032" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer1_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.85457" SampleStartMod="600"
+          MonolithOffset="757760" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer3_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="66.4665" SampleStartMod="600"
+          MonolithOffset="831488" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer3_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.6925" SampleStartMod="600"
+          MonolithOffset="892928" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer3_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.77946" SampleStartMod="600"
+          MonolithOffset="954368" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Susp_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.9726" SampleStartMod="600"
+          MonolithOffset="1019904" MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Susp_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.37758" SampleStartMod="600"
+          MonolithOffset="1122304" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Susp_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="14.0816" SampleStartMod="600"
+          MonolithOffset="1232896" MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Susp_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.14436" SampleStartMod="600"
+          MonolithOffset="1392640" MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Susp_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="28.9726" SampleStartMod="600"
+          MonolithOffset="1544192" MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Susp_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.37758" SampleStartMod="600"
+          MonolithOffset="1646592" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Susp_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="14.0816" SampleStartMod="600"
+          MonolithOffset="1757184" MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Susp_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.14436" SampleStartMod="600"
+          MonolithOffset="1916928" MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Hammer_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.73158" SampleStartMod="600"
+          Volume="-4" MonolithOffset="2068480" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_Hammer_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.67491" SampleStartMod="600"
+          Volume="-4" MonolithOffset="2142208" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_YarnM_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="31.2374" SampleStartMod="600"
+          Volume="-4" MonolithOffset="2220032" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum1_YarnM_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.72702" SampleStartMod="600"
+          Volume="-4" MonolithOffset="2289664" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="62" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer1_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.2736" SampleStartMod="600"
+          MonolithOffset="2363392" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="63" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.85457" SampleStartMod="600"
+          MonolithOffset="2437120" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer3_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="66.4665" SampleStartMod="600"
+          MonolithOffset="2510848" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer3_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="18.6925" SampleStartMod="600"
+          MonolithOffset="2572288" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Brake Drum/BrakeDrum2_Hammer3_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.77946" SampleStartMod="600"
+          MonolithOffset="2633728" MonolithLength="65536" SampleRate="44100"/>
+</samplemap>

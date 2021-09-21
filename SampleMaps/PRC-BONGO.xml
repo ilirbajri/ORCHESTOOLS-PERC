@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-BONGO" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.58" SampleStartMod="1500"
+          MonolithOffset="0" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="56.4966" SampleStartMod="1500"
+          MonolithOffset="49152" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.7651" SampleStartMod="1500"
+          MonolithOffset="94208" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.47333" SampleStartMod="1500"
+          MonolithOffset="139264" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.7651" SampleStartMod="1500"
+          MonolithOffset="192512" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.47333" SampleStartMod="1500"
+          MonolithOffset="237568" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.31291" SampleStartMod="1500"
+          MonolithOffset="290816" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v3_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.51192" SampleStartMod="1500"
+          MonolithOffset="344064" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.7651" SampleStartMod="1500"
+          MonolithOffset="397312" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.47333" SampleStartMod="1500"
+          MonolithOffset="442368" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.31291" SampleStartMod="1500"
+          MonolithOffset="495616" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Hit1_v3_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.51192" SampleStartMod="1500"
+          MonolithOffset="548864" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.61651" SampleStartMod="1500"
+          MonolithOffset="602112" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.03426" SampleStartMod="1500"
+          MonolithOffset="655360" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.72976" SampleStartMod="1500"
+          MonolithOffset="708608" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v3_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.38886" SampleStartMod="1500"
+          MonolithOffset="761856" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="37.3212" SampleStartMod="1000"
+          MonolithOffset="815104" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="56.5941" SampleStartMod="1000"
+          MonolithOffset="851968" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.61651" SampleStartMod="1000"
+          MonolithOffset="888832" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_HitMuted2_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="5.03426" SampleStartMod="1000"
+          MonolithOffset="942080" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Roll_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.25919" LoopEnabled="1"
+          LoopEnd="85933" LoopStart="28764" LoopXFade="5000" SampleStartMod="15000"
+          MonolithOffset="995328" MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Roll_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.03801" LoopEnabled="1"
+          SampleEnd="84135" SampleStart="0" LoopStart="17350" LoopEnd="67439"
+          SampleStartMod="15000" LoopXFade="5000" MonolithOffset="1138688"
+          MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Roll_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.25919" LoopEnabled="1"
+          LoopEnd="85933" LoopStart="28764" LoopXFade="5000" SampleStartMod="15000"
+          MonolithOffset="1269760" MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoL_Roll_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.03801" LoopEnabled="1"
+          SampleEnd="84135" SampleStart="0" LoopStart="17350" LoopEnd="67439"
+          SampleStartMod="15000" LoopXFade="5000" MonolithOffset="1413120"
+          MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="53" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="32.8996" MonolithOffset="1544192"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="53" LoKey="57" HiKey="57" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="33.8163" MonolithOffset="1581056"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="53" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.6736" MonolithOffset="1634304"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="53" LoKey="57" HiKey="57" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.867" MonolithOffset="1687552"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.6736" SampleStartMod="1500"
+          MonolithOffset="1732608" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.867" SampleStartMod="1500"
+          MonolithOffset="1785856" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.77577" SampleStartMod="1500"
+          MonolithOffset="1830912" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="59" LoKey="59" HiKey="60" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v3_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.47895" SampleStartMod="1500"
+          MonolithOffset="1884160" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="53" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v1_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="32.8996" MonolithOffset="1933312"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="53" LoKey="55" HiKey="55" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v1_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="33.8163" MonolithOffset="1970176"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="53" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="10.6736" MonolithOffset="2023424"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="53" LoKey="55" HiKey="55" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Hit1_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="17.867" MonolithOffset="2076672"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.26173" SampleStartMod="1000"
+          MonolithOffset="2121728" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.23823" SampleStartMod="1000"
+          MonolithOffset="2166784" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.35571" SampleStartMod="1000"
+          MonolithOffset="2211840" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v2_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.4347" SampleStartMod="1000"
+          MonolithOffset="2260992" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.35571" SampleStartMod="1500"
+          MonolithOffset="2310144" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v2_rr2_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="4.4347" SampleStartMod="1500"
+          MonolithOffset="2359296" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.4841" SampleStartMod="1500"
+          MonolithOffset="2408448" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_HitMuted1_v3_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.74255" SampleStartMod="1500"
+          MonolithOffset="2465792" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Roll_v2_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.53111" LoopEnabled="1"
+          LoopEnd="110276" LoopStart="30260" LoopXFade="1000" SampleStartMod="25000"
+          MonolithOffset="2510848" MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Roll_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.16783" LoopEnabled="1"
+          LoopEnd="76855" LoopStart="28044" LoopXFade="1000" SampleStartMod="15000"
+          MonolithOffset="2674688" MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Roll_v2_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="8.53111" LoopEnabled="1"
+          LoopEnd="110276" LoopStart="30260" LoopXFade="1000" SampleStartMod="25000"
+          MonolithOffset="2818048" MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="60" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Membranophones/Bongos/BongoH_Roll_v3_rr1_Mid.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.16783" LoopEnabled="1"
+          LoopEnd="76855" LoopStart="28044" LoopXFade="1000" SampleStartMod="15000"
+          MonolithOffset="2981888" MonolithLength="143360" SampleRate="44100"/>
+</samplemap>

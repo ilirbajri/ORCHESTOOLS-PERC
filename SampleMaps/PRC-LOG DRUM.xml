@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PRC-LOG DRUM" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="54" LoKey="54" HiKey="60" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slit Drum/LogDrumHi_MedM_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.9008" SampleStartMod="2000"
+          MonolithOffset="0" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="60" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slit Drum/LogDrumHi_MedM_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.9672" SampleStartMod="2000"
+          MonolithOffset="69632" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="60" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slit Drum/LogDrumHi_MedM_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.19632" SampleStartMod="2000"
+          MonolithOffset="139264" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="0" HiVel="41" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slit Drum/LogDrumLo_MedM_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.3215" SampleStartMod="2000"
+          MonolithOffset="208896" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="42" HiVel="83" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slit Drum/LogDrumLo_MedM_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2269" SampleStartMod="2000"
+          MonolithOffset="262144" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="84" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Struck Idiophones/Slit Drum/LogDrumLo_MedM_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.13278" SampleStartMod="2000"
+          MonolithOffset="327680" MonolithLength="57344" SampleRate="44100"/>
+</samplemap>
